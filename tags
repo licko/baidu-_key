@@ -1,0 +1,1192 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+ACCOUNT_LEN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	603;"	d
+ACCOUNT_LEN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	603;"	d
+ACCOUNT_LEN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	603;"	d
+ACCOUNT_TYPE_ADSL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	604;"	d
+ACCOUNT_TYPE_ADSL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	604;"	d
+ACCOUNT_TYPE_ADSL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	604;"	d
+ACCOUNT_TYPE_RADIUS	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	605;"	d
+ACCOUNT_TYPE_RADIUS	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	605;"	d
+ACCOUNT_TYPE_RADIUS	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	605;"	d
+Addr	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	struct sockaddr_in Addr;$/;"	m	struct:CenterLable	typeref:struct:CenterLable::sockaddr_in
+Addr	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	struct sockaddr_in Addr;$/;"	m	struct:CenterLable	typeref:struct:CenterLable::sockaddr_in
+Addr	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	struct sockaddr_in Addr;$/;"	m	struct:CenterLable	typeref:struct:CenterLable::sockaddr_in
+AppType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}AppType;$/;"	t	typeref:struct:tAppType
+AppType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}AppType;$/;"	t	typeref:struct:tAppType
+AppType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}AppType;$/;"	t	typeref:struct:tAppType
+AudioPacket	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int   AudioPacket;$/;"	m	struct:DARecord_QQ_MEDIA
+AudioPacket	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int   AudioPacket;$/;"	m	struct:DARecord_QQ_MEDIA
+AudioPacket	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int   AudioPacket;$/;"	m	struct:DARecord_QQ_MEDIA
+AudioPath	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  AudioPath[260];$/;"	m	struct:DARecord_QQ_MEDIA
+AudioPath	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  AudioPath[260];$/;"	m	struct:DARecord_QQ_MEDIA
+AudioPath	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  AudioPath[260];$/;"	m	struct:DARecord_QQ_MEDIA
+BAIDU_HOST_URL	BAIDUMark/include/GetBaiDuMark.c	8;"	d	file:
+BOOL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef	int 		BOOL;$/;"	t
+BOOL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef	int 		BOOL;$/;"	t
+BOOL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef	int 		BOOL;$/;"	t
+BYTE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef unsigned char	BYTE;$/;"	t
+BYTE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef unsigned char	BYTE;$/;"	t
+BYTE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef unsigned char	BYTE;$/;"	t
+BaiDuKey	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	/^typedef struct BaiDuKey$/;"	s
+BaiDuKey	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	/^}BaiDuKey;$/;"	t	typeref:struct:BaiDuKey
+BaiDuKey	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	/^typedef struct BaiDuKey$/;"	s
+BaiDuKey	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	/^}BaiDuKey;$/;"	t	typeref:struct:BaiDuKey
+BaiDuKey	BAIDUMark/DAPreBaiDuMark/include/DAPreBaiDuMark.h	/^typedef struct BaiDuKey$/;"	s
+BaiDuKey	BAIDUMark/DAPreBaiDuMark/include/DAPreBaiDuMark.h	/^}BaiDuKey;$/;"	t	typeref:struct:BaiDuKey
+CC	BAIDUMark/DABaiDuMarkAnalyse/Makefile	/^CC = gcc$/;"	m
+CC	BAIDUMark/DABaiDuMarkWrite/Makefile	/^CC = gcc$/;"	m
+CC	BAIDUMark/DAPreBaiDuMark/Makefile	/^CC = gcc$/;"	m
+CC	BAIDUMark/DAPreBaiDuMark/src/Makefile	/^CC = gcc$/;"	m
+CFLAGS	BAIDUMark/DABaiDuMarkAnalyse/Makefile	/^CFLAGS = -I include -I src -I ..\/include -I \/home\/SecDR_F118\/include$/;"	m
+CFLAGS	BAIDUMark/DABaiDuMarkWrite/Makefile	/^CFLAGS = -I include -I src -I ..\/include  -I \/home\/SecDR_F118\/include$/;"	m
+CFLAGS	BAIDUMark/DAPreBaiDuMark/Makefile	/^CFLAGS = -I include -I src -I \/home\/SecDR_F118\/include $/;"	m
+CFLAGS	BAIDUMark/DAPreBaiDuMark/src/Makefile	/^CFLAGS = -I ..\/include -I ..\/src -I \/home\/SecDR_F118\/include $/;"	m
+CenterLable	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct CenterLable$/;"	s
+CenterLable	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}CenterLable;$/;"	t	typeref:struct:CenterLable
+CenterLable	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct CenterLable$/;"	s
+CenterLable	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}CenterLable;$/;"	t	typeref:struct:CenterLable
+CenterLable	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct CenterLable$/;"	s
+CenterLable	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}CenterLable;$/;"	t	typeref:struct:CenterLable
+ChinaIPRange	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct ChinaIPRange$/;"	s
+ChinaIPRange	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}ChinaIPRange;$/;"	t	typeref:struct:ChinaIPRange
+ChinaIPRange	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct ChinaIPRange$/;"	s
+ChinaIPRange	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}ChinaIPRange;$/;"	t	typeref:struct:ChinaIPRange
+ChinaIPRange	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct ChinaIPRange$/;"	s
+ChinaIPRange	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}ChinaIPRange;$/;"	t	typeref:struct:ChinaIPRange
+CmdArg	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	}CmdArg;$/;"	m	struct:DAManageCmd	typeref:union:DAManageCmd::__anon3
+CmdArg	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	}CmdArg;$/;"	m	struct:DAManageCmd	typeref:union:DAManageCmd::__anon5
+CmdArg	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	}CmdArg;$/;"	m	struct:DAManageCmd	typeref:union:DAManageCmd::__anon1
+DAInit	BAIDUMark/DABaiDuMarkAnalyse/src/DABaiDuMarkAnalyse.c	/^int DAInit(int iMode)$/;"	f
+DAInputData	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DAInputData$/;"	s
+DAInputData	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DAInputData;$/;"	t	typeref:struct:DAInputData
+DAInputData	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DAInputData$/;"	s
+DAInputData	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DAInputData;$/;"	t	typeref:struct:DAInputData
+DAInputData	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DAInputData$/;"	s
+DAInputData	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DAInputData;$/;"	t	typeref:struct:DAInputData
+DAManageCmd	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DAManageCmd$/;"	s
+DAManageCmd	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DAManageCmd;$/;"	t	typeref:struct:DAManageCmd
+DAManageCmd	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DAManageCmd$/;"	s
+DAManageCmd	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DAManageCmd;$/;"	t	typeref:struct:DAManageCmd
+DAManageCmd	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DAManageCmd$/;"	s
+DAManageCmd	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DAManageCmd;$/;"	t	typeref:struct:DAManageCmd
+DAPacketAttr	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DAPacketAttr;$/;"	t	typeref:struct:tDAPacketAttr
+DAPacketAttr	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DAPacketAttr;$/;"	t	typeref:struct:tDAPacketAttr
+DAPacketAttr	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DAPacketAttr;$/;"	t	typeref:struct:tDAPacketAttr
+DAPacketHead1	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DAPacketHead1$/;"	s
+DAPacketHead1	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DAPacketHead1;$/;"	t	typeref:struct:DAPacketHead1
+DAPacketHead1	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DAPacketHead1$/;"	s
+DAPacketHead1	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DAPacketHead1;$/;"	t	typeref:struct:DAPacketHead1
+DAPacketHead1	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DAPacketHead1$/;"	s
+DAPacketHead1	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DAPacketHead1;$/;"	t	typeref:struct:DAPacketHead1
+DAPreAnalyse	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int (* DAPreAnalyse)(struct ethhdr *eth,	\/\/eth头指针$/;"	m	struct:DAPreAnalyseNode
+DAPreAnalyse	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int (* DAPreAnalyse)(struct ethhdr *eth,	\/\/eth头指针$/;"	m	struct:DAPreAnalyseNode
+DAPreAnalyse	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int (* DAPreAnalyse)(struct ethhdr *eth,	\/\/eth头指针$/;"	m	struct:DAPreAnalyseNode
+DAPreAnalyse	BAIDUMark/DAPreBaiDuMark/src/DAPreBaiDuMark.c	/^int DAPreAnalyse(	struct ethhdr *eth,	\/\/eth 头指针$/;"	f
+DAPreAnalyseHead	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DAPreAnalyseHead$/;"	s
+DAPreAnalyseHead	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DAPreAnalyseHead;$/;"	t	typeref:struct:DAPreAnalyseHead
+DAPreAnalyseHead	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DAPreAnalyseHead$/;"	s
+DAPreAnalyseHead	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DAPreAnalyseHead;$/;"	t	typeref:struct:DAPreAnalyseHead
+DAPreAnalyseHead	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DAPreAnalyseHead$/;"	s
+DAPreAnalyseHead	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DAPreAnalyseHead;$/;"	t	typeref:struct:DAPreAnalyseHead
+DAPreAnalyseNode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DAPreAnalyseNode$/;"	s
+DAPreAnalyseNode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DAPreAnalyseNode;$/;"	t	typeref:struct:DAPreAnalyseNode
+DAPreAnalyseNode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DAPreAnalyseNode$/;"	s
+DAPreAnalyseNode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DAPreAnalyseNode;$/;"	t	typeref:struct:DAPreAnalyseNode
+DAPreAnalyseNode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DAPreAnalyseNode$/;"	s
+DAPreAnalyseNode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DAPreAnalyseNode;$/;"	t	typeref:struct:DAPreAnalyseNode
+DAPreInit	BAIDUMark/DAPreBaiDuMark/src/DAPreBaiDuMark.c	/^int DAPreInit(int iMode)$/;"	f
+DAQQMedia	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^		DARecord_QQ_MEDIA DAQQMedia;$/;"	m	union:DARecord::__anon4
+DAQQMedia	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^		DARecord_QQ_MEDIA DAQQMedia;$/;"	m	union:DARecord::__anon6
+DAQQMedia	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^		DARecord_QQ_MEDIA DAQQMedia;$/;"	m	union:DARecord::__anon2
+DAR	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	}DAR;$/;"	m	struct:DARecord	typeref:union:DARecord::__anon4
+DAR	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	}DAR;$/;"	m	struct:DARecord	typeref:union:DARecord::__anon6
+DAR	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	}DAR;$/;"	m	struct:DARecord	typeref:union:DARecord::__anon2
+DARecord	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DARecord$/;"	s
+DARecord	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DARecord;$/;"	t	typeref:struct:DARecord
+DARecord	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DARecord$/;"	s
+DARecord	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DARecord;$/;"	t	typeref:struct:DARecord
+DARecord	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DARecord$/;"	s
+DARecord	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DARecord;$/;"	t	typeref:struct:DARecord
+DARecord_QQ_MEDIA	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DARecord_QQ_MEDIA$/;"	s
+DARecord_QQ_MEDIA	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DARecord_QQ_MEDIA;$/;"	t	typeref:struct:DARecord_QQ_MEDIA
+DARecord_QQ_MEDIA	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DARecord_QQ_MEDIA$/;"	s
+DARecord_QQ_MEDIA	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DARecord_QQ_MEDIA;$/;"	t	typeref:struct:DARecord_QQ_MEDIA
+DARecord_QQ_MEDIA	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DARecord_QQ_MEDIA$/;"	s
+DARecord_QQ_MEDIA	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DARecord_QQ_MEDIA;$/;"	t	typeref:struct:DARecord_QQ_MEDIA
+DARegister	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DARegister$/;"	s
+DARegister	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DARegister;$/;"	t	typeref:struct:DARegister
+DARegister	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DARegister$/;"	s
+DARegister	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DARegister;$/;"	t	typeref:struct:DARegister
+DARegister	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DARegister$/;"	s
+DARegister	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DARegister;$/;"	t	typeref:struct:DARegister
+DARegisterHead	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DARegisterHead$/;"	s
+DARegisterHead	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DARegisterHead;$/;"	t	typeref:struct:DARegisterHead
+DARegisterHead	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DARegisterHead$/;"	s
+DARegisterHead	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DARegisterHead;$/;"	t	typeref:struct:DARegisterHead
+DARegisterHead	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DARegisterHead$/;"	s
+DARegisterHead	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DARegisterHead;$/;"	t	typeref:struct:DARegisterHead
+DARegisterNode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DARegisterNode$/;"	s
+DARegisterNode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DARegisterNode$/;"	s
+DARegisterNode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DARegisterNode$/;"	s
+DARegiterNode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DARegiterNode;$/;"	t	typeref:struct:DARegisterNode
+DARegiterNode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DARegiterNode;$/;"	t	typeref:struct:DARegisterNode
+DARegiterNode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DARegiterNode;$/;"	t	typeref:struct:DARegisterNode
+DASendBuff	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DASendBuff$/;"	s
+DASendBuff	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DASendBuff;$/;"	t	typeref:struct:DASendBuff
+DASendBuff	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DASendBuff$/;"	s
+DASendBuff	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DASendBuff;$/;"	t	typeref:struct:DASendBuff
+DASendBuff	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DASendBuff$/;"	s
+DASendBuff	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DASendBuff;$/;"	t	typeref:struct:DASendBuff
+DASendPacket	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DASendPacket$/;"	s
+DASendPacket	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DASendPacket;$/;"	t	typeref:struct:DASendPacket
+DASendPacket	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DASendPacket$/;"	s
+DASendPacket	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DASendPacket;$/;"	t	typeref:struct:DASendPacket
+DASendPacket	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DASendPacket$/;"	s
+DASendPacket	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DASendPacket;$/;"	t	typeref:struct:DASendPacket
+DATALOG_ANALYSE_PID_PATH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	80;"	d
+DATALOG_ANALYSE_PID_PATH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	80;"	d
+DATALOG_ANALYSE_PID_PATH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	80;"	d
+DAWrite	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	/^int (*DAWrite)(MarkBaiDuWrite_t* pMarkBaiDuWrite);$/;"	v
+DAWrite	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	/^int DAWrite(MarkBaiDuWrite_t* pMarkBaiDuWrite)$/;"	f
+DA_ANALYSE_CONF	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	527;"	d
+DA_ANALYSE_CONF	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	527;"	d
+DA_ANALYSE_CONF	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	527;"	d
+DA_CMD_CLASS_QQ_MEDIA_ALL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	290;"	d
+DA_CMD_CLASS_QQ_MEDIA_ALL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	290;"	d
+DA_CMD_CLASS_QQ_MEDIA_ALL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	290;"	d
+DA_CMD_CLASS_QQ_MEDIA_HOST	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	293;"	d
+DA_CMD_CLASS_QQ_MEDIA_HOST	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	293;"	d
+DA_CMD_CLASS_QQ_MEDIA_HOST	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	293;"	d
+DA_CMD_TYPE_QQ_MEDIA_ALL_SET_RECORD_TYPE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	291;"	d
+DA_CMD_TYPE_QQ_MEDIA_ALL_SET_RECORD_TYPE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	291;"	d
+DA_CMD_TYPE_QQ_MEDIA_ALL_SET_RECORD_TYPE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	291;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_ADD	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	294;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_ADD	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	294;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_ADD	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	294;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_DEL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	295;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_DEL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	295;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_DEL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	295;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_DEL_ALL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	297;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_DEL_ALL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	297;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_DEL_ALL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	297;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_GET_LIST	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	296;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_GET_LIST	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	296;"	d
+DA_CMD_TYPE_QQ_MEDIA_HOST_GET_LIST	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	296;"	d
+DA_CONF_PATH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	46;"	d
+DA_CONF_PATH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	46;"	d
+DA_CONF_PATH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	46;"	d
+DA_MANAGE_CONF_PATH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	47;"	d
+DA_MANAGE_CONF_PATH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	47;"	d
+DA_MANAGE_CONF_PATH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	47;"	d
+DA_NAME_ADSL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	569;"	d
+DA_NAME_ADSL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	569;"	d
+DA_NAME_ADSL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	569;"	d
+DA_NAME_ALL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	568;"	d
+DA_NAME_ALL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	568;"	d
+DA_NAME_ALL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	568;"	d
+DA_NAME_BAIDU_KEY	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	594;"	d
+DA_NAME_BAIDU_KEY	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	594;"	d
+DA_NAME_BAIDU_KEY	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	594;"	d
+DA_NAME_BREAK	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	589;"	d
+DA_NAME_BREAK	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	589;"	d
+DA_NAME_BREAK	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	589;"	d
+DA_NAME_DNS	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	587;"	d
+DA_NAME_DNS	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	587;"	d
+DA_NAME_DNS	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	587;"	d
+DA_NAME_MAIL_ALL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	582;"	d
+DA_NAME_MAIL_ALL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	582;"	d
+DA_NAME_MAIL_ALL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	582;"	d
+DA_NAME_MAIL_PO3	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	584;"	d
+DA_NAME_MAIL_PO3	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	584;"	d
+DA_NAME_MAIL_PO3	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	584;"	d
+DA_NAME_MAIL_SMTP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	583;"	d
+DA_NAME_MAIL_SMTP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	583;"	d
+DA_NAME_MAIL_SMTP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	583;"	d
+DA_NAME_MARK_360	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	592;"	d
+DA_NAME_MARK_360	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	592;"	d
+DA_NAME_MARK_360	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	592;"	d
+DA_NAME_MARK_QQ	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	593;"	d
+DA_NAME_MARK_QQ	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	593;"	d
+DA_NAME_MARK_QQ	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	593;"	d
+DA_NAME_MSN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	575;"	d
+DA_NAME_MSN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	575;"	d
+DA_NAME_MSN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	575;"	d
+DA_NAME_MSN_ALL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	574;"	d
+DA_NAME_MSN_ALL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	574;"	d
+DA_NAME_MSN_ALL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	574;"	d
+DA_NAME_QQ_ALL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	571;"	d
+DA_NAME_QQ_ALL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	571;"	d
+DA_NAME_QQ_ALL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	571;"	d
+DA_NAME_QQ_LOGIN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	572;"	d
+DA_NAME_QQ_LOGIN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	572;"	d
+DA_NAME_QQ_LOGIN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	572;"	d
+DA_NAME_QQ_MEDIA	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	573;"	d
+DA_NAME_QQ_MEDIA	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	573;"	d
+DA_NAME_QQ_MEDIA	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	573;"	d
+DA_NAME_RADIUS	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	570;"	d
+DA_NAME_RADIUS	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	570;"	d
+DA_NAME_RADIUS	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	570;"	d
+DA_NAME_SKYPE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	577;"	d
+DA_NAME_SKYPE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	577;"	d
+DA_NAME_SKYPE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	577;"	d
+DA_NAME_SKYPE_ALL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	576;"	d
+DA_NAME_SKYPE_ALL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	576;"	d
+DA_NAME_SKYPE_ALL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	576;"	d
+DA_NAME_SPECIAL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	588;"	d
+DA_NAME_SPECIAL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	588;"	d
+DA_NAME_SPECIAL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	588;"	d
+DA_NAME_TCP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	565;"	d
+DA_NAME_TCP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	565;"	d
+DA_NAME_TCP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	565;"	d
+DA_NAME_Trojan	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	591;"	d
+DA_NAME_Trojan	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	591;"	d
+DA_NAME_Trojan	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	591;"	d
+DA_NAME_UDP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	566;"	d
+DA_NAME_UDP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	566;"	d
+DA_NAME_UDP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	566;"	d
+DA_NAME_URL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	586;"	d
+DA_NAME_URL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	586;"	d
+DA_NAME_URL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	586;"	d
+DA_NAME_VPN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	590;"	d
+DA_NAME_VPN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	590;"	d
+DA_NAME_VPN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	590;"	d
+DA_NAME_WEB_ALL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	585;"	d
+DA_NAME_WEB_ALL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	585;"	d
+DA_NAME_WEB_ALL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	585;"	d
+DA_NAME_WEB_MAIL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	579;"	d
+DA_NAME_WEB_MAIL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	579;"	d
+DA_NAME_WEB_MAIL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	579;"	d
+DA_NAME_WM_ALL	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	578;"	d
+DA_NAME_WM_ALL	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	578;"	d
+DA_NAME_WM_ALL	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	578;"	d
+DA_NAME_WM_RECV	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	581;"	d
+DA_NAME_WM_RECV	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	581;"	d
+DA_NAME_WM_RECV	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	581;"	d
+DA_NAME_WM_SEND	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	580;"	d
+DA_NAME_WM_SEND	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	580;"	d
+DA_NAME_WM_SEND	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	580;"	d
+DA_SOLIB_PATH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	50;"	d
+DA_SOLIB_PATH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	50;"	d
+DA_SOLIB_PATH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	50;"	d
+DAanalyse	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int (* DAanalyse)(ElementKey *pstKey, BYTE *pbyAppData, int iAppLen); \/\/数据分析 函数指针$/;"	m	struct:DARegisterNode
+DAanalyse	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int (* DAanalyse)(ElementKey *pstKey, BYTE *pbyAppData, int iAppLen); \/\/数据分析 函数指针$/;"	m	struct:DARegisterNode
+DAanalyse	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int (* DAanalyse)(ElementKey *pstKey, BYTE *pbyAppData, int iAppLen); \/\/数据分析 函数指针$/;"	m	struct:DARegisterNode
+DAnalyse	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int (* DAnalyse)(struct ethhdr *eth,	\/\/eth头指针$/;"	m	struct:DAnalyseNode
+DAnalyse	BAIDUMark/DABaiDuMarkAnalyse/src/DABaiDuMarkAnalyse.c	/^int DAnalyse(	struct ethhdr *eth,		\/\/eth 头指针$/;"	f
+DAnalyse	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int (* DAnalyse)(struct ethhdr *eth,	\/\/eth头指针$/;"	m	struct:DAnalyseNode
+DAnalyse	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int (* DAnalyse)(struct ethhdr *eth,	\/\/eth头指针$/;"	m	struct:DAnalyseNode
+DAnalyseHead	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DAnalyseHead$/;"	s
+DAnalyseHead	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DAnalyseHead;$/;"	t	typeref:struct:DAnalyseHead
+DAnalyseHead	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DAnalyseHead$/;"	s
+DAnalyseHead	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DAnalyseHead;$/;"	t	typeref:struct:DAnalyseHead
+DAnalyseHead	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DAnalyseHead$/;"	s
+DAnalyseHead	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DAnalyseHead;$/;"	t	typeref:struct:DAnalyseHead
+DAnalyseNode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct DAnalyseNode$/;"	s
+DAnalyseNode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}DAnalyseNode;$/;"	t	typeref:struct:DAnalyseNode
+DAnalyseNode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct DAnalyseNode$/;"	s
+DAnalyseNode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}DAnalyseNode;$/;"	t	typeref:struct:DAnalyseNode
+DAnalyseNode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct DAnalyseNode$/;"	s
+DAnalyseNode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}DAnalyseNode;$/;"	t	typeref:struct:DAnalyseNode
+DEBUG	BAIDUMark/DABaiDuMarkAnalyse/include/debug.h	/^static inline void DEBUG(char *str, ...)$/;"	f
+DEBUG	BAIDUMark/DABaiDuMarkWrite/include/debug.h	/^static inline void DEBUG(char *str, ...)$/;"	f
+DEBUG	BAIDUMark/DAPreBaiDuMark/include/debug.h	/^static inline void DEBUG(char *str, ...)$/;"	f
+DEFAULT_PORT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	386;"	d
+DEFAULT_PORT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	386;"	d
+DEFAULT_PORT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	386;"	d
+DELETE_FILE	BAIDUMark/DABaiDuMarkAnalyse/include/debug.h	22;"	d
+DELETE_FILE	BAIDUMark/DABaiDuMarkWrite/include/debug.h	22;"	d
+DELETE_FILE	BAIDUMark/DAPreBaiDuMark/include/debug.h	22;"	d
+DIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  DIP[16];$/;"	m	struct:DARecord_QQ_MEDIA
+DIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  DIP[16];$/;"	m	struct:DARecord_QQ_MEDIA
+DIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  DIP[16];$/;"	m	struct:DARecord_QQ_MEDIA
+DIRTYPE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	55;"	d
+DIRTYPE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	55;"	d
+DIRTYPE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	55;"	d
+DPort	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  DPort[8];$/;"	m	struct:DARecord_QQ_MEDIA
+DPort	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  DPort[8];$/;"	m	struct:DARecord_QQ_MEDIA
+DPort	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  DPort[8];$/;"	m	struct:DARecord_QQ_MEDIA
+DWORD	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef unsigned long	DWORD;$/;"	t
+DWORD	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef unsigned long	DWORD;$/;"	t
+DWORD	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef unsigned long	DWORD;$/;"	t
+ETH_BUFF_LEN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	84;"	d
+ETH_BUFF_LEN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	84;"	d
+ETH_BUFF_LEN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	84;"	d
+EXEC	BAIDUMark/DABaiDuMarkAnalyse/Makefile	/^EXEC = \/home\/SecDR_F118\/solib\/Other\/DABaiDuMarkAnalyse.so$/;"	m
+EXEC	BAIDUMark/DABaiDuMarkWrite/Makefile	/^EXEC = \/home\/SecDR_F118\/solib\/Other\/DABaiDuMarkWrite.so$/;"	m
+EXEC	BAIDUMark/DAPreBaiDuMark/Makefile	/^EXEC = \/home\/SecDR_F118\/solib\/Other\/DAPreBaiDuMark.so$/;"	m
+EXEC	BAIDUMark/DAPreBaiDuMark/src/Makefile	/^EXEC = test$/;"	m
+ElementKey	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct ElementKey$/;"	s
+ElementKey	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}ElementKey;$/;"	t	typeref:struct:ElementKey
+ElementKey	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct ElementKey$/;"	s
+ElementKey	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}ElementKey;$/;"	t	typeref:struct:ElementKey
+ElementKey	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct ElementKey$/;"	s
+ElementKey	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}ElementKey;$/;"	t	typeref:struct:ElementKey
+FALSE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	69;"	d
+FALSE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	69;"	d
+FALSE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	69;"	d
+FILETYPE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	54;"	d
+FILETYPE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	54;"	d
+FILETYPE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	54;"	d
+FakeHead	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct FakeHead$/;"	s
+FakeHead	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct FakeHead$/;"	s
+FakeHead	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct FakeHead$/;"	s
+FileStat	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct FileStat$/;"	s
+FileStat	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}FileStat;$/;"	t	typeref:struct:FileStat
+FileStat	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct FileStat$/;"	s
+FileStat	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}FileStat;$/;"	t	typeref:struct:FileStat
+FileStat	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct FileStat$/;"	s
+FileStat	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}FileStat;$/;"	t	typeref:struct:FileStat
+G01_DATA	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	381;"	d
+G01_DATA	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	381;"	d
+G01_DATA	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	381;"	d
+G01_LABLE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	380;"	d
+G01_LABLE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	380;"	d
+G01_LABLE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	380;"	d
+G01_PACKET_TYPE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	452;"	d
+G01_PACKET_TYPE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	452;"	d
+G01_PACKET_TYPE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	452;"	d
+G01_ROOT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	379;"	d
+G01_ROOT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	379;"	d
+G01_ROOT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	379;"	d
+GGG	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	91;"	d
+GGG	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	91;"	d
+GGG	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	91;"	d
+GetBaiDuKey	BAIDUMark/include/GetBaiDuMark.c	/^int GetBaiDuKey(char *key, char* Url)$/;"	f
+GetBaiDuMarkInAppData	BAIDUMark/include/GetBaiDuMark.c	/^int GetBaiDuMarkInAppData(BaiDuKey *Mark, char* appData, size_t iAppLen)$/;"	f
+GetBaiDuUrl	BAIDUMark/include/GetBaiDuMark.c	/^int GetBaiDuUrl(char *Url, char* appData, size_t iAppLen)$/;"	f
+GetHOSTInPackt	BAIDUMark/include/GetBaiDuMark.c	/^int GetHOSTInPackt(char *Host, char* appData, size_t appLen)$/;"	f
+GetMarkBaiDuWrite	BAIDUMark/include/MarkBaiDuWrite.c	/^int GetMarkBaiDuWrite(MarkBaiDuWrite_t* pMarkBaiDuWrite, UINT IP, BYTE Mac[], DAPacketAttr *pstPacketAttr)$/;"	f
+GetMysqlConf	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	/^int GetMysqlConf(MySQL_Con *My_Config)$/;"	f
+HALF_PACKET_MTD	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	390;"	d
+HALF_PACKET_MTD	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	390;"	d
+HALF_PACKET_MTD	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	390;"	d
+HTTP_BUFF_SIZE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	85;"	d
+HTTP_BUFF_SIZE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	85;"	d
+HTTP_BUFF_SIZE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	85;"	d
+HTTP_HOST_LEN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	86;"	d
+HTTP_HOST_LEN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	86;"	d
+HTTP_HOST_LEN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	86;"	d
+INSERT	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	13;"	d	file:
+IP_RANGE_CONF_PATH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	51;"	d
+IP_RANGE_CONF_PATH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	51;"	d
+IP_RANGE_CONF_PATH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	51;"	d
+IS_SET_SEND_PORT_DEST_MAC	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	111;"	d
+IS_SET_SEND_PORT_DEST_MAC	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	111;"	d
+IS_SET_SEND_PORT_DEST_MAC	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	111;"	d
+IS_SET_SEND_PORT_FLUSH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	110;"	d
+IS_SET_SEND_PORT_FLUSH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	110;"	d
+IS_SET_SEND_PORT_FLUSH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	110;"	d
+IS_SET_SEND_PORT_PPPOE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	109;"	d
+IS_SET_SEND_PORT_PPPOE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	109;"	d
+IS_SET_SEND_PORT_PPPOE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	109;"	d
+IS_SET_SEND_PORT_SOURCE_MAC	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	112;"	d
+IS_SET_SEND_PORT_SOURCE_MAC	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	112;"	d
+IS_SET_SEND_PORT_SOURCE_MAC	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	112;"	d
+IS_SET_SEND_PORT_VLAN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	108;"	d
+IS_SET_SEND_PORT_VLAN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	108;"	d
+IS_SET_SEND_PORT_VLAN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	108;"	d
+Init	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	/^int (*Init)(int iMode);$/;"	v
+Init	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int (* Init)(int iMode);	\/\/初始化 函数指针$/;"	m	struct:DAPreAnalyseNode
+Init	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int (* Init)(int iMode);	\/\/初始化 函数指针$/;"	m	struct:DARegisterNode
+Init	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int (* Init)(int iMode);	\/\/初始化 函数指针$/;"	m	struct:DAnalyseNode
+Init	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int (* Init)(int iMode);	\/\/初始化 函数指针$/;"	m	struct:DAPreAnalyseNode
+Init	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int (* Init)(int iMode);	\/\/初始化 函数指针$/;"	m	struct:DARegisterNode
+Init	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int (* Init)(int iMode);	\/\/初始化 函数指针$/;"	m	struct:DAnalyseNode
+Init	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	/^int Init(int iMode)$/;"	f
+Init	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int (* Init)(int iMode);	\/\/初始化 函数指针$/;"	m	struct:DAPreAnalyseNode
+Init	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int (* Init)(int iMode);	\/\/初始化 函数指针$/;"	m	struct:DARegisterNode
+Init	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int (* Init)(int iMode);	\/\/初始化 函数指针$/;"	m	struct:DAnalyseNode
+InitBaiDuMarkDll	BAIDUMark/DABaiDuMarkAnalyse/src/DABaiDuMarkAnalyse.c	/^int InitBaiDuMarkDll(void)$/;"	f
+InitMysqlConnect	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	/^int InitMysqlConnect(void)$/;"	f
+IsAlreadyRun	BAIDUMark/DABaiDuMarkAnalyse/include/debug.h	/^static inline BOOL IsAlreadyRun(char *pszPidPath)$/;"	f
+IsAlreadyRun	BAIDUMark/DABaiDuMarkWrite/include/debug.h	/^static inline BOOL IsAlreadyRun(char *pszPidPath)$/;"	f
+IsAlreadyRun	BAIDUMark/DAPreBaiDuMark/include/debug.h	/^static inline BOOL IsAlreadyRun(char *pszPidPath)$/;"	f
+Judgecmd	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	/^int Judgecmd(MarkBaiDuWrite_t* pMarkBaiDuWrite)$/;"	f
+KKK	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	89;"	d
+KKK	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	89;"	d
+KKK	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	89;"	d
+KnifeLog	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}KnifeLog; $/;"	t	typeref:struct:tKnifeLog
+KnifeLog	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}KnifeLog; $/;"	t	typeref:struct:tKnifeLog
+KnifeLog	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}KnifeLog; $/;"	t	typeref:struct:tKnifeLog
+L2	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT  L2;			\/\/链路层协议，eth,vlan,vlan-in-vlan$/;"	m	struct:DAPacketHead1
+L2	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT  L2;			\/\/链路层协议，eth,vlan,vlan-in-vlan$/;"	m	struct:DARegisterNode
+L2	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT  L2;			\/\/链路层协议，eth,vlan,vlan-in-vlan$/;"	m	struct:DAPacketHead1
+L2	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT  L2;			\/\/链路层协议，eth,vlan,vlan-in-vlan$/;"	m	struct:DARegisterNode
+L2	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT  L2;			\/\/链路层协议，eth,vlan,vlan-in-vlan$/;"	m	struct:DAPacketHead1
+L2	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT  L2;			\/\/链路层协议，eth,vlan,vlan-in-vlan$/;"	m	struct:DARegisterNode
+L3	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT  L3;			\/\/网络层协议 ip,pppoe,arp$/;"	m	struct:DAPacketHead1
+L3	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT  L3;			\/\/网络层协议 ip,pppoe,arp$/;"	m	struct:DARegisterNode
+L3	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT  L3;			\/\/网络层协议 ip,pppoe,arp$/;"	m	struct:DAPacketHead1
+L3	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT  L3;			\/\/网络层协议 ip,pppoe,arp$/;"	m	struct:DARegisterNode
+L3	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT  L3;			\/\/网络层协议 ip,pppoe,arp$/;"	m	struct:DAPacketHead1
+L3	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT  L3;			\/\/网络层协议 ip,pppoe,arp$/;"	m	struct:DARegisterNode
+L3_1	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT  L3_1;			\/\/L3下封装的协议，如：pppoe下的ppp，目前只支持pppoe$/;"	m	struct:DAPacketHead1
+L3_1	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT  L3_1;			\/\/L3下封装的协议，如：pppoe下的ppp，目前只支持pppoe$/;"	m	struct:DARegisterNode
+L3_1	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT  L3_1;			\/\/L3下封装的协议，如：pppoe下的ppp，目前只支持pppoe$/;"	m	struct:DAPacketHead1
+L3_1	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT  L3_1;			\/\/L3下封装的协议，如：pppoe下的ppp，目前只支持pppoe$/;"	m	struct:DARegisterNode
+L3_1	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT  L3_1;			\/\/L3下封装的协议，如：pppoe下的ppp，目前只支持pppoe$/;"	m	struct:DAPacketHead1
+L3_1	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT  L3_1;			\/\/L3下封装的协议，如：pppoe下的ppp，目前只支持pppoe$/;"	m	struct:DARegisterNode
+L4	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT  L4;			\/\/传输层协议 tcp,udp,icmp,igmp$/;"	m	struct:DAPacketHead1
+L4	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT  L4;			\/\/传输层协议 tcp,udp,icmp,igmp$/;"	m	struct:DARegisterNode
+L4	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT  L4;			\/\/传输层协议 tcp,udp,icmp,igmp$/;"	m	struct:DAPacketHead1
+L4	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT  L4;			\/\/传输层协议 tcp,udp,icmp,igmp$/;"	m	struct:DARegisterNode
+L4	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT  L4;			\/\/传输层协议 tcp,udp,icmp,igmp$/;"	m	struct:DAPacketHead1
+L4	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT  L4;			\/\/传输层协议 tcp,udp,icmp,igmp$/;"	m	struct:DARegisterNode
+L4DataCharactor	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct L4DataCharactor$/;"	s
+L4DataCharactor	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}L4DataCharactor;$/;"	t	typeref:struct:L4DataCharactor
+L4DataCharactor	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct L4DataCharactor$/;"	s
+L4DataCharactor	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}L4DataCharactor;$/;"	t	typeref:struct:L4DataCharactor
+L4DataCharactor	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct L4DataCharactor$/;"	s
+L4DataCharactor	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}L4DataCharactor;$/;"	t	typeref:struct:L4DataCharactor
+LAST_MODIFY	BAIDUMark/DABaiDuMarkAnalyse/src/DABaiDuMarkAnalyse.c	12;"	d	file:
+LAST_MODIFY	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	11;"	d	file:
+LAST_MODIFY	BAIDUMark/DAPreBaiDuMark/src/DAPreBaiDuMark.c	13;"	d	file:
+LONG	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef long		LONG;$/;"	t
+LONG	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef long		LONG;$/;"	t
+LONG	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef long		LONG;$/;"	t
+LONGLONG	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef long long	LONGLONG;$/;"	t
+LONGLONG	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef long long	LONGLONG;$/;"	t
+LONGLONG	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef long long	LONGLONG;$/;"	t
+LP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT  LP;			\/\/应用层协议$/;"	m	struct:DAPacketHead1
+LP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT  LP;			\/\/应用层协议$/;"	m	struct:DAPacketHead1
+LP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT  LP;			\/\/应用层协议$/;"	m	struct:DAPacketHead1
+LX	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT  LX;			\/\/保留，设为0$/;"	m	struct:DARegisterNode
+LX	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT  LX;			\/\/保留，设为0$/;"	m	struct:DARegisterNode
+LX	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT  LX;			\/\/保留，设为0$/;"	m	struct:DARegisterNode
+LoginTime	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  LoginTime[20];$/;"	m	struct:DARecord_QQ_MEDIA
+LoginTime	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  LoginTime[20];$/;"	m	struct:DARecord_QQ_MEDIA
+LoginTime	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  LoginTime[20];$/;"	m	struct:DARecord_QQ_MEDIA
+MAIN_PATH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	44;"	d
+MAIN_PATH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	44;"	d
+MAIN_PATH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	44;"	d
+MARK_BaiDu_INSERT	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	26;"	d	file:
+MARK_BaiDu_JUDGE	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	28;"	d	file:
+MARK_BaiDu_UPDATE	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	27;"	d	file:
+MARK_BaiDu_WRITE_DLL_PATH	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	32;"	d
+MAX_CHARACTOR_COUNT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	201;"	d
+MAX_CHARACTOR_COUNT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	201;"	d
+MAX_CHARACTOR_COUNT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	201;"	d
+MAX_CHINA_IP_RANGE_COUNT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	315;"	d
+MAX_CHINA_IP_RANGE_COUNT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	315;"	d
+MAX_CHINA_IP_RANGE_COUNT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	315;"	d
+MAX_DANALYSE_COUNT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	561;"	d
+MAX_DANALYSE_COUNT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	561;"	d
+MAX_DANALYSE_COUNT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	561;"	d
+MAX_ETH_PORT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	87;"	d
+MAX_ETH_PORT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	87;"	d
+MAX_ETH_PORT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	87;"	d
+MAX_HOST_LEN	BAIDUMark/include/GetBaiDuMark.c	7;"	d	file:
+MAX_KEY_LEN	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	21;"	d
+MAX_KEY_LEN	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	19;"	d
+MAX_KEY_LEN	BAIDUMark/DAPreBaiDuMark/include/DAPreBaiDuMark.h	21;"	d
+MAX_PACKET_COUNT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	450;"	d
+MAX_PACKET_COUNT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	450;"	d
+MAX_PACKET_COUNT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	450;"	d
+MAX_PACKET_SIZE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	388;"	d
+MAX_PACKET_SIZE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	388;"	d
+MAX_PACKET_SIZE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	388;"	d
+MAX_PATH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	83;"	d
+MAX_PATH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	83;"	d
+MAX_PATH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	83;"	d
+MAX_PREANALYSE_COUNT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	516;"	d
+MAX_PREANALYSE_COUNT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	516;"	d
+MAX_PREANALYSE_COUNT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	516;"	d
+MAX_QQ_MEDIA_RECORD_COUNT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	267;"	d
+MAX_QQ_MEDIA_RECORD_COUNT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	267;"	d
+MAX_QQ_MEDIA_RECORD_COUNT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	267;"	d
+MAX_REGISTER_COUNT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	202;"	d
+MAX_REGISTER_COUNT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	202;"	d
+MAX_REGISTER_COUNT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	202;"	d
+MAX_SEND_PACKET	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	383;"	d
+MAX_SEND_PACKET	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	383;"	d
+MAX_SEND_PACKET	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	383;"	d
+MAX_SEND_PACKET_TIME	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	384;"	d
+MAX_SEND_PACKET_TIME	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	384;"	d
+MAX_SEND_PACKET_TIME	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	384;"	d
+MAX_SQLSTRING_LEN	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	24;"	d	file:
+MAX_TYPE_COUNT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	451;"	d
+MAX_TYPE_COUNT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	451;"	d
+MAX_TYPE_COUNT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	451;"	d
+MAX_URL_LEN	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	22;"	d
+MAX_URL_LEN	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	20;"	d
+MAX_URL_LEN	BAIDUMark/DAPreBaiDuMark/include/DAPreBaiDuMark.h	22;"	d
+MMM	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	90;"	d
+MMM	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	90;"	d
+MMM	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	90;"	d
+MOULE_NAME	BAIDUMark/DABaiDuMarkAnalyse/src/DABaiDuMarkAnalyse.c	13;"	d	file:
+MOULE_NAME	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	12;"	d	file:
+MOULE_NAME	BAIDUMark/DAPreBaiDuMark/src/DAPreBaiDuMark.c	14;"	d	file:
+Mac	BAIDUMark/include/MarkBaiDuWrite.c	/^	char		Mac[18];$/;"	m	struct:MarkBaiDuWrite_t	file:
+Mark	BAIDUMark/include/MarkBaiDuWrite.c	/^	BaiDuKey	Mark;$/;"	m	struct:MarkBaiDuWrite_t	file:
+MarkBaiDuWrite_t	BAIDUMark/include/MarkBaiDuWrite.c	/^typedef struct MarkBaiDuWrite_t{$/;"	s	file:
+MarkBaiDuWrite_t	BAIDUMark/include/MarkBaiDuWrite.c	/^}MarkBaiDuWrite_t;$/;"	t	typeref:struct:MarkBaiDuWrite_t	file:
+MediaTime	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  MediaTime[20];$/;"	m	struct:DARecord_QQ_MEDIA
+MediaTime	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  MediaTime[20];$/;"	m	struct:DARecord_QQ_MEDIA
+MediaTime	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  MediaTime[20];$/;"	m	struct:DARecord_QQ_MEDIA
+MySQL_Con	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	/^}MySQL_Con;$/;"	t	typeref:struct:tMySQL_Con
+OP_FAILED	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	18;"	d
+OP_FAILED	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	17;"	d
+OP_FAILED	BAIDUMark/DAPreBaiDuMark/include/DAPreBaiDuMark.h	19;"	d
+OP_FAILED	BAIDUMark/include/GetBaiDuMark.c	5;"	d	file:
+OP_FAILED	BAIDUMark/include/MarkBaiDuWrite.c	4;"	d	file:
+OP_SUCCESS	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	17;"	d
+OP_SUCCESS	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	16;"	d
+OP_SUCCESS	BAIDUMark/DAPreBaiDuMark/include/DAPreBaiDuMark.h	18;"	d
+OP_SUCCESS	BAIDUMark/include/GetBaiDuMark.c	4;"	d	file:
+OP_SUCCESS	BAIDUMark/include/MarkBaiDuWrite.c	3;"	d	file:
+OUT_PUT_BUF_SIZE	BAIDUMark/include/GetBaiDuMark.c	9;"	d	file:
+PACKET_MTD	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	389;"	d
+PACKET_MTD	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	389;"	d
+PACKET_MTD	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	389;"	d
+PPPOEh	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct PPPOEh$/;"	s
+PPPOEh	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}PPPOEh;$/;"	t	typeref:struct:PPPOEh
+PPPOEh	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct PPPOEh$/;"	s
+PPPOEh	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}PPPOEh;$/;"	t	typeref:struct:PPPOEh
+PPPOEh	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct PPPOEh$/;"	s
+PPPOEh	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}PPPOEh;$/;"	t	typeref:struct:PPPOEh
+PPPh	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct PPPh$/;"	s
+PPPh	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}PPPh;$/;"	t	typeref:struct:PPPh
+PPPh	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct PPPh$/;"	s
+PPPh	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}PPPh;$/;"	t	typeref:struct:PPPh
+PPPh	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct PPPh$/;"	s
+PPPh	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}PPPh;$/;"	t	typeref:struct:PPPh
+PRE_ANALYSE_CONF	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	482;"	d
+PRE_ANALYSE_CONF	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	482;"	d
+PRE_ANALYSE_CONF	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	482;"	d
+PacketAdd	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}PacketAdd;$/;"	t	typeref:struct:tPacketAdd
+PacketAdd	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}PacketAdd;$/;"	t	typeref:struct:tPacketAdd
+PacketAdd	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}PacketAdd;$/;"	t	typeref:struct:tPacketAdd
+QQMediaAllPolicy	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct QQMediaAllPolicy$/;"	s
+QQMediaAllPolicy	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}QQMediaAllPolicy;$/;"	t	typeref:struct:QQMediaAllPolicy
+QQMediaAllPolicy	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct QQMediaAllPolicy$/;"	s
+QQMediaAllPolicy	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}QQMediaAllPolicy;$/;"	t	typeref:struct:QQMediaAllPolicy
+QQMediaAllPolicy	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct QQMediaAllPolicy$/;"	s
+QQMediaAllPolicy	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}QQMediaAllPolicy;$/;"	t	typeref:struct:QQMediaAllPolicy
+QQMediaRecordPolicy	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct QQMediaRecordPolicy$/;"	s
+QQMediaRecordPolicy	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}QQMediaRecordPolicy;$/;"	t	typeref:struct:QQMediaRecordPolicy
+QQMediaRecordPolicy	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct QQMediaRecordPolicy$/;"	s
+QQMediaRecordPolicy	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}QQMediaRecordPolicy;$/;"	t	typeref:struct:QQMediaRecordPolicy
+QQMediaRecordPolicy	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct QQMediaRecordPolicy$/;"	s
+QQMediaRecordPolicy	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}QQMediaRecordPolicy;$/;"	t	typeref:struct:QQMediaRecordPolicy
+RECORD_DAQQ_MEDIA	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	339;"	d
+RECORD_DAQQ_MEDIA	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	339;"	d
+RECORD_DAQQ_MEDIA	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	339;"	d
+RecordType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int   RecordType;$/;"	m	struct:DARecord_QQ_MEDIA
+RecordType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int   RecordType;$/;"	m	struct:DARecord_QQ_MEDIA
+RecordType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int   RecordType;$/;"	m	struct:DARecord_QQ_MEDIA
+RecvQQ	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  RecvQQ[16];$/;"	m	struct:DARecord_QQ_MEDIA
+RecvQQ	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  RecvQQ[16];$/;"	m	struct:DARecord_QQ_MEDIA
+RecvQQ	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  RecvQQ[16];$/;"	m	struct:DARecord_QQ_MEDIA
+SEND_FILE_TYPE_SEND_DATA	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	396;"	d
+SEND_FILE_TYPE_SEND_DATA	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	396;"	d
+SEND_FILE_TYPE_SEND_DATA	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	396;"	d
+SEND_FILE_TYPE_SEND_NAME	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	395;"	d
+SEND_FILE_TYPE_SEND_NAME	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	395;"	d
+SEND_FILE_TYPE_SEND_NAME	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	395;"	d
+SEND_PORT_TYPE_DEST_MAC	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	105;"	d
+SEND_PORT_TYPE_DEST_MAC	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	105;"	d
+SEND_PORT_TYPE_DEST_MAC	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	105;"	d
+SEND_PORT_TYPE_FLUSH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	104;"	d
+SEND_PORT_TYPE_FLUSH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	104;"	d
+SEND_PORT_TYPE_FLUSH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	104;"	d
+SEND_PORT_TYPE_PPPOE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	102;"	d
+SEND_PORT_TYPE_PPPOE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	102;"	d
+SEND_PORT_TYPE_PPPOE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	102;"	d
+SEND_PORT_TYPE_SOURCE_MAC	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	106;"	d
+SEND_PORT_TYPE_SOURCE_MAC	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	106;"	d
+SEND_PORT_TYPE_SOURCE_MAC	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	106;"	d
+SEND_PORT_TYPE_VLAN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	103;"	d
+SEND_PORT_TYPE_VLAN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	103;"	d
+SEND_PORT_TYPE_VLAN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	103;"	d
+SET_SEND_PORT_DMAC	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	129;"	d
+SET_SEND_PORT_DMAC	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	129;"	d
+SET_SEND_PORT_DMAC	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	129;"	d
+SET_SEND_PORT_FLUSH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	114;"	d
+SET_SEND_PORT_FLUSH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	114;"	d
+SET_SEND_PORT_FLUSH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	114;"	d
+SET_SEND_PORT_PPPOE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	119;"	d
+SET_SEND_PORT_PPPOE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	119;"	d
+SET_SEND_PORT_PPPOE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	119;"	d
+SET_SEND_PORT_SMAC	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	134;"	d
+SET_SEND_PORT_SMAC	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	134;"	d
+SET_SEND_PORT_SMAC	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	134;"	d
+SET_SEND_PORT_VLAN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	124;"	d
+SET_SEND_PORT_VLAN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	124;"	d
+SET_SEND_PORT_VLAN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	124;"	d
+SIG_ZERO	BAIDUMark/DABaiDuMarkAnalyse/include/debug.h	20;"	d
+SIG_ZERO	BAIDUMark/DABaiDuMarkWrite/include/debug.h	20;"	d
+SIG_ZERO	BAIDUMark/DAPreBaiDuMark/include/debug.h	20;"	d
+SIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  SIP[16];$/;"	m	struct:DARecord_QQ_MEDIA
+SIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  SIP[16];$/;"	m	struct:DARecord_QQ_MEDIA
+SIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  SIP[16];$/;"	m	struct:DARecord_QQ_MEDIA
+SNED_BUFF_CLASS_SEND_FILE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	394;"	d
+SNED_BUFF_CLASS_SEND_FILE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	394;"	d
+SNED_BUFF_CLASS_SEND_FILE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	394;"	d
+SOURCE	BAIDUMark/DABaiDuMarkAnalyse/Makefile	/^SOURCE = src\/DABaiDuMarkAnalyse.c$/;"	m
+SOURCE	BAIDUMark/DABaiDuMarkWrite/Makefile	/^SOURCE = src\/DABaiDuMarkWrite.c \/home\/SecDR_F118\/lib\/InitSysType.a$/;"	m
+SOURCE	BAIDUMark/DAPreBaiDuMark/Makefile	/^SOURCE = src\/DAPreBaiDuMark.c$/;"	m
+SOURCE	BAIDUMark/DAPreBaiDuMark/src/Makefile	/^SOURCE = test.c$/;"	m
+SPort	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  SPort[8];$/;"	m	struct:DARecord_QQ_MEDIA
+SPort	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  SPort[8];$/;"	m	struct:DARecord_QQ_MEDIA
+SPort	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  SPort[8];$/;"	m	struct:DARecord_QQ_MEDIA
+SYS_LOG_DIR	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	49;"	d
+SYS_LOG_DIR	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	49;"	d
+SYS_LOG_DIR	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	49;"	d
+SYS_LOG_LEVEL_AUDIT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	94;"	d
+SYS_LOG_LEVEL_AUDIT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	94;"	d
+SYS_LOG_LEVEL_AUDIT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	94;"	d
+SYS_LOG_LEVEL_DEBUG	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	100;"	d
+SYS_LOG_LEVEL_DEBUG	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	100;"	d
+SYS_LOG_LEVEL_DEBUG	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	100;"	d
+SYS_LOG_LEVEL_ERROR	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	96;"	d
+SYS_LOG_LEVEL_ERROR	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	96;"	d
+SYS_LOG_LEVEL_ERROR	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	96;"	d
+SYS_LOG_LEVEL_FAULT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	97;"	d
+SYS_LOG_LEVEL_FAULT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	97;"	d
+SYS_LOG_LEVEL_FAULT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	97;"	d
+SYS_LOG_LEVEL_INFO	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	99;"	d
+SYS_LOG_LEVEL_INFO	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	99;"	d
+SYS_LOG_LEVEL_INFO	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	99;"	d
+SYS_LOG_LEVEL_WARNING	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	98;"	d
+SYS_LOG_LEVEL_WARNING	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	98;"	d
+SYS_LOG_LEVEL_WARNING	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	98;"	d
+SYS_SET_CONF_FILE_PATH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	48;"	d
+SYS_SET_CONF_FILE_PATH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	48;"	d
+SYS_SET_CONF_FILE_PATH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	48;"	d
+SendCmd	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct SendCmd$/;"	s
+SendCmd	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}SendCmd;$/;"	t	typeref:struct:SendCmd
+SendCmd	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct SendCmd$/;"	s
+SendCmd	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}SendCmd;$/;"	t	typeref:struct:SendCmd
+SendCmd	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct SendCmd$/;"	s
+SendCmd	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}SendCmd;$/;"	t	typeref:struct:SendCmd
+SendPortArg	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct SendPortArg$/;"	s
+SendPortArg	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}SendPortArg;$/;"	t	typeref:struct:SendPortArg
+SendPortArg	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct SendPortArg$/;"	s
+SendPortArg	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}SendPortArg;$/;"	t	typeref:struct:SendPortArg
+SendPortArg	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct SendPortArg$/;"	s
+SendPortArg	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}SendPortArg;$/;"	t	typeref:struct:SendPortArg
+SendQQ	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  SendQQ[16];$/;"	m	struct:DARecord_QQ_MEDIA
+SendQQ	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  SendQQ[16];$/;"	m	struct:DARecord_QQ_MEDIA
+SendQQ	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  SendQQ[16];$/;"	m	struct:DARecord_QQ_MEDIA
+StartDA	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int (* StartDA)(int iMode);	\/\/数据分析启动 函数指针$/;"	m	struct:DARegisterNode
+StartDA	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int (* StartDA)(int iMode);	\/\/数据分析启动 函数指针$/;"	m	struct:DARegisterNode
+StartDA	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int (* StartDA)(int iMode);	\/\/数据分析启动 函数指针$/;"	m	struct:DARegisterNode
+SysType	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	/^typedef struct SysType$/;"	s
+SysType	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	/^}SysType;$/;"	t	typeref:struct:SysType
+TCP_FLAG_ACK	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	75;"	d
+TCP_FLAG_ACK	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	75;"	d
+TCP_FLAG_ACK	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	75;"	d
+TCP_FLAG_FIN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	71;"	d
+TCP_FLAG_FIN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	71;"	d
+TCP_FLAG_FIN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	71;"	d
+TCP_FLAG_PSH	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	74;"	d
+TCP_FLAG_PSH	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	74;"	d
+TCP_FLAG_PSH	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	74;"	d
+TCP_FLAG_RST	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	73;"	d
+TCP_FLAG_RST	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	73;"	d
+TCP_FLAG_RST	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	73;"	d
+TCP_FLAG_SYN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	72;"	d
+TCP_FLAG_SYN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	72;"	d
+TCP_FLAG_SYN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	72;"	d
+TCP_FLAG_URG	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	76;"	d
+TCP_FLAG_URG	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	76;"	d
+TCP_FLAG_URG	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	76;"	d
+TRUE	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	68;"	d
+TRUE	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	68;"	d
+TRUE	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	68;"	d
+TimeLen	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int   TimeLen;$/;"	m	struct:DARecord_QQ_MEDIA
+TimeLen	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int   TimeLen;$/;"	m	struct:DARecord_QQ_MEDIA
+TimeLen	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int   TimeLen;$/;"	m	struct:DARecord_QQ_MEDIA
+Type	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	struct Type$/;"	s	struct:tAppType
+Type	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	struct Type$/;"	s	struct:tAppType
+Type	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	struct Type$/;"	s	struct:tAppType
+UCHAR	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef unsigned char 	UCHAR;$/;"	t
+UCHAR	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef unsigned char 	UCHAR;$/;"	t
+UCHAR	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef unsigned char 	UCHAR;$/;"	t
+UINT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef unsigned int	UINT;$/;"	t
+UINT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef unsigned int	UINT;$/;"	t
+UINT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef unsigned int	UINT;$/;"	t
+ULONG	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef unsigned long 	ULONG;$/;"	t
+ULONG	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef unsigned long 	ULONG;$/;"	t
+ULONG	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef unsigned long 	ULONG;$/;"	t
+ULONGLONG	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef unsigned long long ULONGLONG;$/;"	t
+ULONGLONG	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef unsigned long long ULONGLONG;$/;"	t
+ULONGLONG	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef unsigned long long ULONGLONG;$/;"	t
+UPDATE	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	14;"	d	file:
+USHORT	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef unsigned short 	USHORT;$/;"	t
+USHORT	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef unsigned short 	USHORT;$/;"	t
+USHORT	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef unsigned short 	USHORT;$/;"	t
+UseSqlcmd	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	/^int UseSqlcmd(char* sqlcmd)$/;"	f
+UserName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  UserName[64];$/;"	m	struct:DARecord_QQ_MEDIA
+UserName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  UserName[64];$/;"	m	struct:DARecord_QQ_MEDIA
+UserName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  UserName[64];$/;"	m	struct:DARecord_QQ_MEDIA
+VERSION_INFO	BAIDUMark/DABaiDuMarkAnalyse/src/DABaiDuMarkAnalyse.c	11;"	d	file:
+VERSION_INFO	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	10;"	d	file:
+VERSION_INFO	BAIDUMark/DAPreBaiDuMark/src/DAPreBaiDuMark.c	12;"	d	file:
+VER_MARK	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	392;"	d
+VER_MARK	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	392;"	d
+VER_MARK	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	392;"	d
+VLANh	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct VLANh$/;"	s
+VLANh	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}VLANh;$/;"	t	typeref:struct:VLANh
+VLANh	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct VLANh$/;"	s
+VLANh	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}VLANh;$/;"	t	typeref:struct:VLANh
+VLANh	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct VLANh$/;"	s
+VLANh	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}VLANh;$/;"	t	typeref:struct:VLANh
+Version	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  Version[8];$/;"	m	struct:DARecord_QQ_MEDIA
+Version	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int (* Version)(void);		\/\/版本打印 函数指针$/;"	m	struct:DAPreAnalyseNode
+Version	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int (* Version)(void);		\/\/版本打印 函数指针$/;"	m	struct:DARegisterNode
+Version	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int (* Version)(void);		\/\/版本打印 函数指针$/;"	m	struct:DAnalyseNode
+Version	BAIDUMark/DABaiDuMarkAnalyse/src/DABaiDuMarkAnalyse.c	/^int Version(void)$/;"	f
+Version	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  Version[8];$/;"	m	struct:DARecord_QQ_MEDIA
+Version	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int (* Version)(void);		\/\/版本打印 函数指针$/;"	m	struct:DAPreAnalyseNode
+Version	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int (* Version)(void);		\/\/版本打印 函数指针$/;"	m	struct:DARegisterNode
+Version	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int (* Version)(void);		\/\/版本打印 函数指针$/;"	m	struct:DAnalyseNode
+Version	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	/^int Version(void)$/;"	f
+Version	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  Version[8];$/;"	m	struct:DARecord_QQ_MEDIA
+Version	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int (* Version)(void);		\/\/版本打印 函数指针$/;"	m	struct:DAPreAnalyseNode
+Version	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int (* Version)(void);		\/\/版本打印 函数指针$/;"	m	struct:DARegisterNode
+Version	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int (* Version)(void);		\/\/版本打印 函数指针$/;"	m	struct:DAnalyseNode
+Version	BAIDUMark/DAPreBaiDuMark/src/DAPreBaiDuMark.c	/^int Version(void)$/;"	f
+VideoPacket	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int   VideoPacket; $/;"	m	struct:DARecord_QQ_MEDIA
+VideoPacket	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int   VideoPacket; $/;"	m	struct:DARecord_QQ_MEDIA
+VideoPacket	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int   VideoPacket; $/;"	m	struct:DARecord_QQ_MEDIA
+VideoPath	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char  VideoPath[260];$/;"	m	struct:DARecord_QQ_MEDIA
+VideoPath	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char  VideoPath[260];$/;"	m	struct:DARecord_QQ_MEDIA
+VideoPath	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char  VideoPath[260];$/;"	m	struct:DARecord_QQ_MEDIA
+WritePid	BAIDUMark/DABaiDuMarkAnalyse/include/debug.h	/^static inline int WritePid(char *pszPidPath)$/;"	f
+WritePid	BAIDUMark/DABaiDuMarkWrite/include/debug.h	/^static inline int WritePid(char *pszPidPath)$/;"	f
+WritePid	BAIDUMark/DAPreBaiDuMark/include/debug.h	/^static inline int WritePid(char *pszPidPath)$/;"	f
+_CHP_DEBUG_H_	BAIDUMark/DABaiDuMarkAnalyse/include/debug.h	8;"	d
+_CHP_DEBUG_H_	BAIDUMark/DABaiDuMarkWrite/include/debug.h	8;"	d
+_CHP_DEBUG_H_	BAIDUMark/DAPreBaiDuMark/include/debug.h	8;"	d
+_DA_COMMON_H_	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	8;"	d
+_DA_COMMON_H_	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	8;"	d
+_DA_COMMON_H_	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	8;"	d
+_TNSYSSEt_H_	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	8;"	d
+baidu_key	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	/^	char *baidu_key[MAX_KEY_LEN];$/;"	m	struct:BaiDuKey
+baidu_key	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	/^	char *baidu_key[MAX_KEY_LEN];$/;"	m	struct:BaiDuKey
+baidu_key	BAIDUMark/DAPreBaiDuMark/include/DAPreBaiDuMark.h	/^	char *baidu_key[MAX_KEY_LEN];$/;"	m	struct:BaiDuKey
+baidu_url	BAIDUMark/DABaiDuMarkAnalyse/include/DABaiDuMarkAnalyse.h	/^	char *baidu_url[MAX_URL_LEN];$/;"	m	struct:BaiDuKey
+baidu_url	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	/^	char *baidu_url[MAX_URL_LEN];$/;"	m	struct:BaiDuKey
+baidu_url	BAIDUMark/DAPreBaiDuMark/include/DAPreBaiDuMark.h	/^	char *baidu_url[MAX_URL_LEN];$/;"	m	struct:BaiDuKey
+byCode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE	byCode;$/;"	m	struct:PPPOEh
+byCode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE	byCode;$/;"	m	struct:PPPOEh
+byCode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE	byCode;$/;"	m	struct:PPPOEh
+byDMac	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE	byDMac[6];$/;"	m	struct:ElementKey
+byDMac	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE	byDMac[6];$/;"	m	struct:ElementKey
+byDMac	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE	byDMac[6];$/;"	m	struct:ElementKey
+byDestMac	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE	byDestMac[6];$/;"	m	struct:SendPortArg
+byDestMac	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE	byDestMac[6];$/;"	m	struct:SendPortArg
+byDestMac	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE	byDestMac[6];$/;"	m	struct:SendPortArg
+byNo	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE		byNo[8];	\/\/设备编号$/;"	m	struct:DAPacketHead1
+byNo	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE		byNo[8];	\/\/设备编号$/;"	m	struct:DAPacketHead1
+byNo	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE		byNo[8];	\/\/设备编号$/;"	m	struct:DAPacketHead1
+byPacket	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE		byPacket[MAX_PACKET_SIZE];$/;"	m	struct:DASendPacket
+byPacket	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE		byPacket[MAX_PACKET_SIZE];$/;"	m	struct:DASendPacket
+byPacket	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE		byPacket[MAX_PACKET_SIZE];$/;"	m	struct:DASendPacket
+byProtocol	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE	byProtocol;$/;"	m	struct:ElementKey
+byProtocol	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE	byProtocol;$/;"	m	struct:FakeHead
+byProtocol	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE	byProtocol;$/;"	m	struct:ElementKey
+byProtocol	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE	byProtocol;$/;"	m	struct:FakeHead
+byProtocol	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE	byProtocol;$/;"	m	struct:ElementKey
+byProtocol	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE	byProtocol;$/;"	m	struct:FakeHead
+byReserved	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE	byReserved;$/;"	m	struct:FakeHead
+byReserved	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE	byReserved;$/;"	m	struct:FakeHead
+byReserved	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE	byReserved;$/;"	m	struct:FakeHead
+bySMac	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE	bySMac[6];$/;"	m	struct:ElementKey
+bySMac	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE	bySMac[6];$/;"	m	struct:ElementKey
+bySMac	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE	bySMac[6];$/;"	m	struct:ElementKey
+bySourceMac	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE	bySourceMac[6];$/;"	m	struct:SendPortArg
+bySourceMac	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE	bySourceMac[6];$/;"	m	struct:SendPortArg
+bySourceMac	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE	bySourceMac[6];$/;"	m	struct:SendPortArg
+byType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE	byType:4;$/;"	m	struct:PPPOEh
+byType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE	byType:4;$/;"	m	struct:PPPOEh
+byType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE	byType:4;$/;"	m	struct:PPPOEh
+byVerMark	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE		byVerMark[8];$/;"	m	struct:SendCmd
+byVerMark	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE		byVerMark[8];$/;"	m	struct:SendCmd
+byVerMark	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE		byVerMark[8];$/;"	m	struct:SendCmd
+byVersion	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	BYTE	byVersion:4;$/;"	m	struct:PPPOEh
+byVersion	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	BYTE	byVersion:4;$/;"	m	struct:PPPOEh
+byVersion	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	BYTE	byVersion:4;$/;"	m	struct:PPPOEh
+conn	BAIDUMark/DABaiDuMarkWrite/src/DABaiDuMarkWrite.c	/^static MYSQL *conn = {0};$/;"	v	file:
+database	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	/^	char database[32];$/;"	m	struct:tMySQL_Con
+g_iDebug	BAIDUMark/DABaiDuMarkAnalyse/include/debug.h	/^int g_iDebug=1;$/;"	v
+g_iDebug	BAIDUMark/DABaiDuMarkWrite/include/debug.h	/^int g_iDebug=1;$/;"	v
+g_iDebug	BAIDUMark/DAPreBaiDuMark/include/debug.h	/^int g_iDebug=1;$/;"	v
+iAudioTime	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iAudioTime;	\/\/Audio Record Time$/;"	m	struct:QQMediaAllPolicy
+iAudioTime	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iAudioTime;	\/\/Audio Record Time$/;"	m	struct:QQMediaRecordPolicy
+iAudioTime	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iAudioTime;	\/\/Audio Record Time$/;"	m	struct:QQMediaAllPolicy
+iAudioTime	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iAudioTime;	\/\/Audio Record Time$/;"	m	struct:QQMediaRecordPolicy
+iAudioTime	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iAudioTime;	\/\/Audio Record Time$/;"	m	struct:QQMediaAllPolicy
+iAudioTime	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iAudioTime;	\/\/Audio Record Time$/;"	m	struct:QQMediaRecordPolicy
+iCharactorCount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int     iCharactorCount;	\/\/当L4不为0时，以下两个字段有效，L4特征数$/;"	m	struct:DARegisterNode
+iCharactorCount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int     iCharactorCount;	\/\/当L4不为0时，以下两个字段有效，L4特征数$/;"	m	struct:DARegisterNode
+iCharactorCount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int     iCharactorCount;	\/\/当L4不为0时，以下两个字段有效，L4特征数$/;"	m	struct:DARegisterNode
+iCmdClass	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iCmdClass;$/;"	m	struct:SendCmd
+iCmdClass	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iCmdClass;$/;"	m	struct:SendCmd
+iCmdClass	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iCmdClass;$/;"	m	struct:SendCmd
+iCmdType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iCmdType;$/;"	m	struct:SendCmd
+iCmdType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iCmdType;$/;"	m	struct:SendCmd
+iCmdType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iCmdType;$/;"	m	struct:SendCmd
+iCount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iCount;$/;"	m	struct:DAPreAnalyseHead
+iCount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iCount;$/;"	m	struct:DARegisterHead
+iCount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iCount;$/;"	m	struct:DAnalyseHead
+iCount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iCount;$/;"	m	struct:tAppType
+iCount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iCount;$/;"	m	struct:DAPreAnalyseHead
+iCount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iCount;$/;"	m	struct:DARegisterHead
+iCount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iCount;$/;"	m	struct:DAnalyseHead
+iCount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iCount;$/;"	m	struct:tAppType
+iCount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iCount;$/;"	m	struct:DAPreAnalyseHead
+iCount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iCount;$/;"	m	struct:DARegisterHead
+iCount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iCount;$/;"	m	struct:DAnalyseHead
+iCount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iCount;$/;"	m	struct:tAppType
+iDatabaseUse	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	/^	int	iDatabaseUse;$/;"	m	struct:SysType
+iEquipCode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iEquipCode;					\/\/设备编号$/;"	m	struct:tDAPacketAttr
+iEquipCode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iEquipCode;$/;"	m	struct:CenterLable
+iEquipCode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iEquipCode;					\/\/设备编号$/;"	m	struct:tDAPacketAttr
+iEquipCode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iEquipCode;$/;"	m	struct:CenterLable
+iEquipCode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iEquipCode;					\/\/设备编号$/;"	m	struct:tDAPacketAttr
+iEquipCode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iEquipCode;$/;"	m	struct:CenterLable
+iEquipCode	BAIDUMark/include/MarkBaiDuWrite.c	/^	int		iEquipCode;					\/\/设备编号$/;"	m	struct:MarkBaiDuWrite_t	file:
+iIndexType	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	/^	int	iIndexType;$/;"	m	struct:SysType
+iKnifeType	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	/^	int	iKnifeType;$/;"	m	struct:SysType
+iLen	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iLen;							\/\/数据包长度$/;"	m	struct:tDAPacketAttr
+iLen	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iLen;		\/\/数据包长度$/;"	m	struct:DAPacketHead1
+iLen	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iLen;							\/\/数据包长度$/;"	m	struct:tDAPacketAttr
+iLen	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iLen;		\/\/数据包长度$/;"	m	struct:DAPacketHead1
+iLen	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iLen;							\/\/数据包长度$/;"	m	struct:tDAPacketAttr
+iLen	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iLen;		\/\/数据包长度$/;"	m	struct:DAPacketHead1
+iMaxLen	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iMaxLen;		\/\/最大数据长度，和iMinLen一样，表示定长$/;"	m	struct:L4DataCharactor
+iMaxLen	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iMaxLen;		\/\/最大数据长度，和iMinLen一样，表示定长$/;"	m	struct:L4DataCharactor
+iMaxLen	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iMaxLen;		\/\/最大数据长度，和iMinLen一样，表示定长$/;"	m	struct:L4DataCharactor
+iMinLen	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int 	iMinLen;		\/\/最小数据长度，-1表示不考虑数据长度$/;"	m	struct:L4DataCharactor
+iMinLen	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int 	iMinLen;		\/\/最小数据长度，-1表示不考虑数据长度$/;"	m	struct:L4DataCharactor
+iMinLen	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int 	iMinLen;		\/\/最小数据长度，-1表示不考虑数据长度$/;"	m	struct:L4DataCharactor
+iNetMode	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	/^	int	iNetMode; \/\/net mode      $/;"	m	struct:SysType
+iNetType	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	/^	int	iNetType; \/\/net environment$/;"	m	struct:SysType
+iNode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iNode;			\/\/节点位置$/;"	m	struct:DAPreAnalyseNode
+iNode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iNode;			\/\/节点位置$/;"	m	struct:DARegisterNode
+iNode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iNode;			\/\/节点位置$/;"	m	struct:DAnalyseNode
+iNode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iNode;			\/\/节点位置$/;"	m	struct:DAPreAnalyseNode
+iNode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iNode;			\/\/节点位置$/;"	m	struct:DARegisterNode
+iNode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iNode;			\/\/节点位置$/;"	m	struct:DAnalyseNode
+iNode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iNode;			\/\/节点位置$/;"	m	struct:DAPreAnalyseNode
+iNode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iNode;			\/\/节点位置$/;"	m	struct:DARegisterNode
+iNode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iNode;			\/\/节点位置$/;"	m	struct:DAnalyseNode
+iPacketCount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iPacketCount;$/;"	m	struct:DASendBuff
+iPacketCount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iPacketCount;$/;"	m	struct:FileStat
+iPacketCount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iPacketCount;$/;"	m	struct:DASendBuff
+iPacketCount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iPacketCount;$/;"	m	struct:FileStat
+iPacketCount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iPacketCount;$/;"	m	struct:DASendBuff
+iPacketCount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iPacketCount;$/;"	m	struct:FileStat
+iPacketNo	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iPacketNo;$/;"	m	struct:SendCmd
+iPacketNo	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int     iPacketNo;		\/\/包序号，开始为0$/;"	m	struct:DARegisterNode
+iPacketNo	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iPacketNo;$/;"	m	struct:SendCmd
+iPacketNo	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int     iPacketNo;		\/\/包序号，开始为0$/;"	m	struct:DARegisterNode
+iPacketNo	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iPacketNo;$/;"	m	struct:SendCmd
+iPacketNo	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int     iPacketNo;		\/\/包序号，开始为0$/;"	m	struct:DARegisterNode
+iPacketSplit	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iPacketSplit;$/;"	m	struct:SendCmd
+iPacketSplit	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iPacketSplit;$/;"	m	struct:SendCmd
+iPacketSplit	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iPacketSplit;$/;"	m	struct:SendCmd
+iPolicyType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iPolicyType;$/;"	m	struct:DAManageCmd
+iPolicyType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iPolicyType;$/;"	m	struct:DAManageCmd
+iPolicyType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iPolicyType;$/;"	m	struct:DAManageCmd
+iPort	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iPort;$/;"	m	struct:CenterLable
+iPort	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iPort;$/;"	m	struct:CenterLable
+iPort	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iPort;$/;"	m	struct:CenterLable
+iRecordType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iRecordType;	\/\/Record Type$/;"	m	struct:QQMediaAllPolicy
+iRecordType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iRecordType;	\/\/Record Type$/;"	m	struct:QQMediaRecordPolicy
+iRecordType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iRecordType;	\/\/Record Type$/;"	m	struct:QQMediaAllPolicy
+iRecordType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iRecordType;	\/\/Record Type$/;"	m	struct:QQMediaRecordPolicy
+iRecordType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iRecordType;	\/\/Record Type$/;"	m	struct:QQMediaAllPolicy
+iRecordType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iRecordType;	\/\/Record Type$/;"	m	struct:QQMediaRecordPolicy
+iReserved	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iReserved;$/;"	m	struct:DAPreAnalyseHead
+iReserved	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iReserved;$/;"	m	struct:DARegisterHead
+iReserved	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iReserved;$/;"	m	struct:DAnalyseHead
+iReserved	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iReserved;$/;"	m	struct:DAPreAnalyseHead
+iReserved	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iReserved;$/;"	m	struct:DARegisterHead
+iReserved	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iReserved;$/;"	m	struct:DAnalyseHead
+iReserved	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iReserved;$/;"	m	struct:DAPreAnalyseHead
+iReserved	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iReserved;$/;"	m	struct:DARegisterHead
+iReserved	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iReserved;$/;"	m	struct:DAnalyseHead
+iSendDataLen	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iSendDataLen;$/;"	m	struct:SendPortArg
+iSendDataLen	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iSendDataLen;$/;"	m	struct:SendPortArg
+iSendDataLen	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iSendDataLen;$/;"	m	struct:SendPortArg
+iSesionNo	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iSesionNo;$/;"	m	struct:SendCmd
+iSesionNo	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iSesionNo;$/;"	m	struct:SendCmd
+iSesionNo	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iSesionNo;$/;"	m	struct:SendCmd
+iSize	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iSize;$/;"	m	struct:FileStat
+iSize	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iSize;$/;"	m	struct:FileStat
+iSize	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iSize;$/;"	m	struct:FileStat
+iSocket	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iSocket;$/;"	m	struct:CenterLable
+iSocket	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iSocket;$/;"	m	struct:CenterLable
+iSocket	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iSocket;$/;"	m	struct:CenterLable
+iUseCount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iUseCount;$/;"	m	struct:DAPreAnalyseHead
+iUseCount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iUseCount;$/;"	m	struct:DARegisterHead
+iUseCount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int		iUseCount;$/;"	m	struct:DAnalyseHead
+iUseCount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iUseCount;$/;"	m	struct:DAPreAnalyseHead
+iUseCount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iUseCount;$/;"	m	struct:DARegisterHead
+iUseCount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int		iUseCount;$/;"	m	struct:DAnalyseHead
+iUseCount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iUseCount;$/;"	m	struct:DAPreAnalyseHead
+iUseCount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iUseCount;$/;"	m	struct:DARegisterHead
+iUseCount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int		iUseCount;$/;"	m	struct:DAnalyseHead
+iVideoTime	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iVideoTime;	\/\/Video Record Time$/;"	m	struct:QQMediaAllPolicy
+iVideoTime	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int	iVideoTime;	\/\/Video Record Time$/;"	m	struct:QQMediaRecordPolicy
+iVideoTime	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iVideoTime;	\/\/Video Record Time$/;"	m	struct:QQMediaAllPolicy
+iVideoTime	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int	iVideoTime;	\/\/Video Record Time$/;"	m	struct:QQMediaRecordPolicy
+iVideoTime	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iVideoTime;	\/\/Video Record Time$/;"	m	struct:QQMediaAllPolicy
+iVideoTime	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int	iVideoTime;	\/\/Video Record Time$/;"	m	struct:QQMediaRecordPolicy
+main	BAIDUMark/DAPreBaiDuMark/src/test.c	/^int main(int argc, char** argv)$/;"	f
+mutexLock	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	pthread_mutex_t mutexLock;$/;"	m	struct:DAPreAnalyseHead
+mutexLock	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	pthread_mutex_t mutexLock;$/;"	m	struct:DARegisterHead
+mutexLock	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	pthread_mutex_t mutexLock;$/;"	m	struct:DAnalyseHead
+mutexLock	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	pthread_mutex_t mutexLock;$/;"	m	struct:DAPreAnalyseHead
+mutexLock	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	pthread_mutex_t mutexLock;$/;"	m	struct:DARegisterHead
+mutexLock	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	pthread_mutex_t mutexLock;$/;"	m	struct:DAnalyseHead
+mutexLock	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	pthread_mutex_t mutexLock;$/;"	m	struct:DAPreAnalyseHead
+mutexLock	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	pthread_mutex_t mutexLock;$/;"	m	struct:DARegisterHead
+mutexLock	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	pthread_mutex_t mutexLock;$/;"	m	struct:DAnalyseHead
+nType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	int nType;$/;"	m	struct:DAInputData
+nType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	int nType;$/;"	m	struct:DAInputData
+nType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	int nType;$/;"	m	struct:DAInputData
+password	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	/^	char password[32];$/;"	m	struct:tMySQL_Con
+php_htoi	BAIDUMark/include/GetBaiDuMark.c	/^static int php_htoi(char *s)  $/;"	f	file:
+php_url_decode	BAIDUMark/include/GetBaiDuMark.c	/^int php_url_decode(char *Url, int len)  $/;"	f
+server	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	/^	char server[256];$/;"	m	struct:tMySQL_Con
+stAll	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^		QQMediaAllPolicy	stAll;		\/\/Class=0x01$/;"	m	union:DAManageCmd::__anon3
+stAll	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^		QQMediaAllPolicy	stAll;		\/\/Class=0x01$/;"	m	union:DAManageCmd::__anon5
+stAll	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^		QQMediaAllPolicy	stAll;		\/\/Class=0x01$/;"	m	union:DAManageCmd::__anon1
+stBuff	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	DASendPacket	stBuff[MAX_SEND_PACKET];$/;"	m	struct:DASendBuff
+stBuff	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	DASendPacket	stBuff[MAX_SEND_PACKET];$/;"	m	struct:DASendBuff
+stBuff	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	DASendPacket	stBuff[MAX_SEND_PACKET];$/;"	m	struct:DASendBuff
+stCharactor	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	L4DataCharactor stCharactor[MAX_CHARACTOR_COUNT];	\/\/MAX为8$/;"	m	struct:DARegisterNode
+stCharactor	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	L4DataCharactor stCharactor[MAX_CHARACTOR_COUNT];	\/\/MAX为8$/;"	m	struct:DARegisterNode
+stCharactor	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	L4DataCharactor stCharactor[MAX_CHARACTOR_COUNT];	\/\/MAX为8$/;"	m	struct:DARegisterNode
+stCmd	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	SendCmd		stCmd;		\/\/发送的时候使用$/;"	m	struct:DASendPacket
+stCmd	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	SendCmd		stCmd;		\/\/发送的时候使用$/;"	m	struct:DASendPacket
+stCmd	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	SendCmd		stCmd;		\/\/发送的时候使用$/;"	m	struct:DASendPacket
+stHead	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	DAPacketHead1	stHead;$/;"	m	struct:DASendPacket
+stHead	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	DAPacketHead1	stHead;$/;"	m	struct:DASendPacket
+stHead	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	DAPacketHead1	stHead;$/;"	m	struct:DASendPacket
+stRecord	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^		QQMediaRecordPolicy	stRecord;	\/\/Class=0x02$/;"	m	union:DAManageCmd::__anon3
+stRecord	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^		QQMediaRecordPolicy	stRecord;	\/\/Class=0x02$/;"	m	union:DAManageCmd::__anon5
+stRecord	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^		QQMediaRecordPolicy	stRecord;	\/\/Class=0x02$/;"	m	union:DAManageCmd::__anon1
+stRegHead	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	DARegisterHead	stRegHead;$/;"	m	struct:DARegister
+stRegHead	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	DARegisterHead	stRegHead;$/;"	m	struct:DARegister
+stRegHead	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	DARegisterHead	stRegHead;$/;"	m	struct:DARegister
+stRegister	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	DARegiterNode	stRegister[MAX_REGISTER_COUNT];$/;"	m	struct:DARegister
+stRegister	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	DARegiterNode	stRegister[MAX_REGISTER_COUNT];$/;"	m	struct:DARegister
+stRegister	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	DARegiterNode	stRegister[MAX_REGISTER_COUNT];$/;"	m	struct:DARegister
+stType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	}stType[MAX_TYPE_COUNT];$/;"	m	struct:tAppType	typeref:struct:tAppType::Type
+stType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	}stType[MAX_TYPE_COUNT];$/;"	m	struct:tAppType	typeref:struct:tAppType::Type
+stType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	}stType[MAX_TYPE_COUNT];$/;"	m	struct:tAppType	typeref:struct:tAppType::Type
+szAccount	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char		szAccount[ACCOUNT_LEN];	\/\/上网帐号$/;"	m	struct:tDAPacketAttr
+szAccount	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char		szAccount[ACCOUNT_LEN];	\/\/上网帐号$/;"	m	struct:tDAPacketAttr
+szAccount	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char		szAccount[ACCOUNT_LEN];	\/\/上网帐号$/;"	m	struct:tDAPacketAttr
+szAccount	BAIDUMark/include/MarkBaiDuWrite.c	/^	char		szAccount[ACCOUNT_LEN];	\/\/上网帐号$/;"	m	struct:MarkBaiDuWrite_t	file:
+szCenterIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char 		szCenterIP[16];$/;"	m	struct:CenterLable
+szCenterIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char 		szCenterIP[16];$/;"	m	struct:CenterLable
+szCenterIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char 		szCenterIP[16];$/;"	m	struct:CenterLable
+szClass	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szClass[8] ;      \/\/类别 App、File、Web、Dns等$/;"	m	struct:tKnifeLog
+szClass	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szClass[8] ;      \/\/类别 App、File、Web、Dns等$/;"	m	struct:tKnifeLog
+szClass	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szClass[8] ;      \/\/类别 App、File、Web、Dns等$/;"	m	struct:tKnifeLog
+szCode	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char	szCode[4];$/;"	m	struct:ChinaIPRange
+szCode	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char	szCode[4];$/;"	m	struct:ChinaIPRange
+szCode	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char	szCode[4];$/;"	m	struct:ChinaIPRange
+szDBPass	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	/^	char	szDBPass[32]; $/;"	m	struct:SysType
+szDBUserName	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	/^	char	szDBUserName[32];$/;"	m	struct:SysType
+szDate	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szDate[20];      \/\/替换时间  $/;"	m	struct:tKnifeLog
+szDate	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szDate[20];      \/\/替换时间  $/;"	m	struct:tKnifeLog
+szDate	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szDate[20];      \/\/替换时间  $/;"	m	struct:tKnifeLog
+szIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szIP[16];        \/\/IP$/;"	m	struct:tKnifeLog
+szIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szIP[16];        \/\/IP$/;"	m	struct:tKnifeLog
+szIP	BAIDUMark/DABaiDuMarkWrite/include/NTSysSet.h	/^	char	szIP[16];$/;"	m	struct:SysType
+szIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szIP[16];        \/\/IP$/;"	m	struct:tKnifeLog
+szInfo	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char	szInfo[4];$/;"	m	struct:ChinaIPRange
+szInfo	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char	szInfo[4];$/;"	m	struct:ChinaIPRange
+szInfo	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char	szInfo[4];$/;"	m	struct:ChinaIPRange
+szLibName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szLibName[16];		\/\/动态库名 如DA_QQ.so$/;"	m	struct:DAPreAnalyseNode
+szLibName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szLibName[16];		\/\/动态库名 如DA_QQ.so$/;"	m	struct:DARegisterNode
+szLibName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szLibName[16];		\/\/动态库名 如DA_QQ.so$/;"	m	struct:DAnalyseNode
+szLibName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szLibName[16];		\/\/动态库名 如DA_QQ.so$/;"	m	struct:DAPreAnalyseNode
+szLibName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szLibName[16];		\/\/动态库名 如DA_QQ.so$/;"	m	struct:DARegisterNode
+szLibName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szLibName[16];		\/\/动态库名 如DA_QQ.so$/;"	m	struct:DAnalyseNode
+szLibName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szLibName[16];		\/\/动态库名 如DA_QQ.so$/;"	m	struct:DAPreAnalyseNode
+szLibName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szLibName[16];		\/\/动态库名 如DA_QQ.so$/;"	m	struct:DARegisterNode
+szLibName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szLibName[16];		\/\/动态库名 如DA_QQ.so$/;"	m	struct:DAnalyseNode
+szMac	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szMac[20];      \/\/MAC$/;"	m	struct:tKnifeLog
+szMac	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szMac[20];      \/\/MAC$/;"	m	struct:tKnifeLog
+szMac	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szMac[20];      \/\/MAC$/;"	m	struct:tKnifeLog
+szModeName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szModeName[16];		\/\/模块名$/;"	m	struct:DAPreAnalyseNode
+szModeName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szModeName[16];		\/\/模块名$/;"	m	struct:DARegisterNode
+szModeName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szModeName[16];		\/\/模块名$/;"	m	struct:DAnalyseNode
+szModeName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szModeName[16];		\/\/模块名$/;"	m	struct:DAPreAnalyseNode
+szModeName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szModeName[16];		\/\/模块名$/;"	m	struct:DARegisterNode
+szModeName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szModeName[16];		\/\/模块名$/;"	m	struct:DAnalyseNode
+szModeName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szModeName[16];		\/\/模块名$/;"	m	struct:DAPreAnalyseNode
+szModeName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szModeName[16];		\/\/模块名$/;"	m	struct:DARegisterNode
+szModeName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szModeName[16];		\/\/模块名$/;"	m	struct:DAnalyseNode
+szName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^		char		szName[16];	\/\/包类型的名称$/;"	m	struct:tAppType::Type
+szName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^		char		szName[16];	\/\/包类型的名称$/;"	m	struct:tAppType::Type
+szName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^		char		szName[16];	\/\/包类型的名称$/;"	m	struct:tAppType::Type
+szPath	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char 		szPath[MAX_PATH];$/;"	m	struct:FileStat
+szPath	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char 		szPath[MAX_PATH];$/;"	m	struct:FileStat
+szPath	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char 		szPath[MAX_PATH];$/;"	m	struct:FileStat
+szReason	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szReason[64];    \/\/替换原因 $/;"	m	struct:tKnifeLog
+szReason	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szReason[64];    \/\/替换原因 $/;"	m	struct:tKnifeLog
+szReason	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szReason[64];    \/\/替换原因 $/;"	m	struct:tKnifeLog
+szRegName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szRegName[16];		\/\/注册名 如QQ[1], QQ[2]	QQ需要处理多个协议时，注册多个，$/;"	m	struct:DAPreAnalyseNode
+szRegName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szRegName[16];		\/\/注册名 如QQ[1], QQ[2]	QQ需要处理多个协议时，注册多个，$/;"	m	struct:DARegisterNode
+szRegName	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szRegName[16];		\/\/注册名 如QQ[1], QQ[2]	QQ需要处理多个协议时，注册多个，$/;"	m	struct:DAnalyseNode
+szRegName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szRegName[16];		\/\/注册名 如QQ[1], QQ[2]	QQ需要处理多个协议时，注册多个，$/;"	m	struct:DAPreAnalyseNode
+szRegName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szRegName[16];		\/\/注册名 如QQ[1], QQ[2]	QQ需要处理多个协议时，注册多个，$/;"	m	struct:DARegisterNode
+szRegName	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szRegName[16];		\/\/注册名 如QQ[1], QQ[2]	QQ需要处理多个协议时，注册多个，$/;"	m	struct:DAnalyseNode
+szRegName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szRegName[16];		\/\/注册名 如QQ[1], QQ[2]	QQ需要处理多个协议时，注册多个，$/;"	m	struct:DAPreAnalyseNode
+szRegName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szRegName[16];		\/\/注册名 如QQ[1], QQ[2]	QQ需要处理多个协议时，注册多个，$/;"	m	struct:DARegisterNode
+szRegName	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szRegName[16];		\/\/注册名 如QQ[1], QQ[2]	QQ需要处理多个协议时，注册多个，$/;"	m	struct:DAnalyseNode
+szUrl	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szUrl[512];      \/\/替换Url记录$/;"	m	struct:tKnifeLog
+szUrl	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szUrl[512];      \/\/替换Url记录$/;"	m	struct:tKnifeLog
+szUrl	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szUrl[512];      \/\/替换Url记录$/;"	m	struct:tKnifeLog
+szUserN	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	char szUserN[64];     \/\/上网帐号$/;"	m	struct:tKnifeLog
+szUserN	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	char szUserN[64];     \/\/上网帐号$/;"	m	struct:tKnifeLog
+szUserN	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	char szUserN[64];     \/\/上网帐号$/;"	m	struct:tKnifeLog
+tAppType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct tAppType$/;"	s
+tAppType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct tAppType$/;"	s
+tAppType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct tAppType$/;"	s
+tDAPacketAttr	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct tDAPacketAttr$/;"	s
+tDAPacketAttr	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct tDAPacketAttr$/;"	s
+tDAPacketAttr	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct tDAPacketAttr$/;"	s
+tFakeHead	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^}tFakeHead;$/;"	t	typeref:struct:FakeHead
+tFakeHead	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^}tFakeHead;$/;"	t	typeref:struct:FakeHead
+tFakeHead	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^}tFakeHead;$/;"	t	typeref:struct:FakeHead
+tKnifeLog	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct tKnifeLog$/;"	s
+tKnifeLog	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct tKnifeLog$/;"	s
+tKnifeLog	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct tKnifeLog$/;"	s
+tMySQL_Con	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	/^typedef struct tMySQL_Con$/;"	s
+tPacketAdd	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^typedef struct tPacketAdd$/;"	s
+tPacketAdd	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^typedef struct tPacketAdd$/;"	s
+tPacketAdd	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^typedef struct tPacketAdd$/;"	s
+uAccountType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT		uAccountType;				\/\/上网帐号类型$/;"	m	struct:tDAPacketAttr
+uAccountType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT		uAccountType;				\/\/上网帐号类型$/;"	m	struct:tDAPacketAttr
+uAccountType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT		uAccountType;				\/\/上网帐号类型$/;"	m	struct:tDAPacketAttr
+uAccountType	BAIDUMark/include/MarkBaiDuWrite.c	/^	UINT		uAccountType;				\/\/上网帐号类型$/;"	m	struct:MarkBaiDuWrite_t	file:
+uAck	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT uAck;$/;"	m	struct:ElementKey
+uAck	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT uAck;$/;"	m	struct:ElementKey
+uAck	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT uAck;$/;"	m	struct:ElementKey
+uDIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT	uDIP;$/;"	m	struct:ElementKey
+uDIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT	uDIP;$/;"	m	struct:QQMediaRecordPolicy
+uDIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	ULONG	uDIP;$/;"	m	struct:ChinaIPRange
+uDIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT	uDIP;$/;"	m	struct:ElementKey
+uDIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT	uDIP;$/;"	m	struct:QQMediaRecordPolicy
+uDIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	ULONG	uDIP;$/;"	m	struct:ChinaIPRange
+uDIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT	uDIP;$/;"	m	struct:ElementKey
+uDIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT	uDIP;$/;"	m	struct:QQMediaRecordPolicy
+uDIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	ULONG	uDIP;$/;"	m	struct:ChinaIPRange
+uIP	BAIDUMark/include/MarkBaiDuWrite.c	/^	UINT		uIP;$/;"	m	struct:MarkBaiDuWrite_t	file:
+uRecvQQ	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT	uRecvQQ;$/;"	m	struct:QQMediaRecordPolicy
+uRecvQQ	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT	uRecvQQ;$/;"	m	struct:QQMediaRecordPolicy
+uRecvQQ	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT	uRecvQQ;$/;"	m	struct:QQMediaRecordPolicy
+uSIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT	uSIP;$/;"	m	struct:ElementKey
+uSIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT	uSIP;$/;"	m	struct:QQMediaRecordPolicy
+uSIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	ULONG	uSIP;$/;"	m	struct:ChinaIPRange
+uSIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT	uSIP;$/;"	m	struct:ElementKey
+uSIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT	uSIP;$/;"	m	struct:QQMediaRecordPolicy
+uSIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	ULONG	uSIP;$/;"	m	struct:ChinaIPRange
+uSIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT	uSIP;$/;"	m	struct:ElementKey
+uSIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT	uSIP;$/;"	m	struct:QQMediaRecordPolicy
+uSIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	ULONG	uSIP;$/;"	m	struct:ChinaIPRange
+uSendQQ	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT	uSendQQ;$/;"	m	struct:QQMediaRecordPolicy
+uSendQQ	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT	uSendQQ;$/;"	m	struct:QQMediaRecordPolicy
+uSendQQ	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT	uSendQQ;$/;"	m	struct:QQMediaRecordPolicy
+uSendType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT	uSendType;$/;"	m	struct:SendPortArg
+uSendType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT	uSendType;$/;"	m	struct:SendPortArg
+uSendType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT	uSendType;$/;"	m	struct:SendPortArg
+uSeq	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT uSeq;$/;"	m	struct:ElementKey
+uSeq	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT uSeq;$/;"	m	struct:ElementKey
+uSeq	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT uSeq;$/;"	m	struct:ElementKey
+uTime	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	time_t		uTime;$/;"	m	struct:DAPacketHead1
+uTime	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	time_t	uTime;						\/\/抓包时间$/;"	m	struct:tDAPacketAttr
+uTime	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	time_t	uTime;$/;"	m	struct:tPacketAdd
+uTime	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	time_t		uTime;$/;"	m	struct:DAPacketHead1
+uTime	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	time_t	uTime;						\/\/抓包时间$/;"	m	struct:tDAPacketAttr
+uTime	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	time_t	uTime;$/;"	m	struct:tPacketAdd
+uTime	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	time_t		uTime;$/;"	m	struct:DAPacketHead1
+uTime	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	time_t	uTime;						\/\/抓包时间$/;"	m	struct:tDAPacketAttr
+uTime	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	time_t	uTime;$/;"	m	struct:tPacketAdd
+uTime	BAIDUMark/include/MarkBaiDuWrite.c	/^	time_t	uTime;						\/\/抓包时间$/;"	m	struct:MarkBaiDuWrite_t	file:
+uType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^		UINT		uType;		\/\/数据包的类型$/;"	m	struct:tAppType::Type
+uType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT		uType;						\/\/数据包的类型，自定义，如QQ_LOGIN_PACKET$/;"	m	struct:tDAPacketAttr
+uType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT		uType;		\/\/该数据包的类型，自定义，如QQ_LOGIN_PACKET$/;"	m	struct:DAPacketHead1
+uType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT 	uType;$/;"	m	struct:tPacketAdd
+uType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	UINT uType;			\/\/分析的包类型$/;"	m	struct:DAnalyseNode
+uType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^		UINT		uType;		\/\/数据包的类型$/;"	m	struct:tAppType::Type
+uType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT		uType;						\/\/数据包的类型，自定义，如QQ_LOGIN_PACKET$/;"	m	struct:tDAPacketAttr
+uType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT		uType;		\/\/该数据包的类型，自定义，如QQ_LOGIN_PACKET$/;"	m	struct:DAPacketHead1
+uType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT 	uType;$/;"	m	struct:tPacketAdd
+uType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	UINT uType;			\/\/分析的包类型$/;"	m	struct:DAnalyseNode
+uType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^		UINT		uType;		\/\/数据包的类型$/;"	m	struct:tAppType::Type
+uType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT		uType;						\/\/数据包的类型，自定义，如QQ_LOGIN_PACKET$/;"	m	struct:tDAPacketAttr
+uType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT		uType;		\/\/该数据包的类型，自定义，如QQ_LOGIN_PACKET$/;"	m	struct:DAPacketHead1
+uType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT 	uType;$/;"	m	struct:tPacketAdd
+uType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	UINT uType;			\/\/分析的包类型$/;"	m	struct:DAnalyseNode
+ulDestIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	ULONG	ulDestIP;$/;"	m	struct:FakeHead
+ulDestIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	ULONG	ulDestIP;$/;"	m	struct:FakeHead
+ulDestIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	ULONG	ulDestIP;$/;"	m	struct:FakeHead
+ulSrcIP	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	ULONG	ulSrcIP;$/;"	m	struct:FakeHead
+ulSrcIP	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	ULONG	ulSrcIP;$/;"	m	struct:FakeHead
+ulSrcIP	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	ULONG	ulSrcIP;$/;"	m	struct:FakeHead
+usCFI	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usCFI:1;$/;"	m	struct:VLANh
+usCFI	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usCFI:1;$/;"	m	struct:VLANh
+usCFI	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usCFI:1;$/;"	m	struct:VLANh
+usCmdClass	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usCmdClass;$/;"	m	struct:DAManageCmd
+usCmdClass	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usCmdClass;$/;"	m	struct:DAManageCmd
+usCmdClass	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usCmdClass;$/;"	m	struct:DAManageCmd
+usCmdType	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usCmdType;$/;"	m	struct:DAManageCmd
+usCmdType	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usCmdType;$/;"	m	struct:DAManageCmd
+usCmdType	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usCmdType;$/;"	m	struct:DAManageCmd
+usDPort	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usDPort;$/;"	m	struct:ElementKey
+usDPort	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT usDPort;			\/\/目的端口	$/;"	m	struct:L4DataCharactor
+usDPort	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usDPort;$/;"	m	struct:ElementKey
+usDPort	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT usDPort;			\/\/目的端口	$/;"	m	struct:L4DataCharactor
+usDPort	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usDPort;$/;"	m	struct:ElementKey
+usDPort	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT usDPort;			\/\/目的端口	$/;"	m	struct:L4DataCharactor
+usID	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usID:12;$/;"	m	struct:VLANh
+usID	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usID:12;$/;"	m	struct:VLANh
+usID	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usID:12;$/;"	m	struct:VLANh
+usLen	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usLen;$/;"	m	struct:FakeHead
+usLen	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usLen;$/;"	m	struct:FakeHead
+usLen	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usLen;$/;"	m	struct:FakeHead
+usPayloadLen	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usPayloadLen;$/;"	m	struct:PPPOEh
+usPayloadLen	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usPayloadLen;$/;"	m	struct:PPPOEh
+usPayloadLen	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usPayloadLen;$/;"	m	struct:PPPOEh
+usPort	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usPort;			\/\/端口号$/;"	m	struct:DAPacketHead1
+usPort	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usPort;			\/\/端口号$/;"	m	struct:DAPacketHead1
+usPort	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usPort;			\/\/端口号$/;"	m	struct:DAPacketHead1
+usPriority	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usPriority:3;$/;"	m	struct:VLANh
+usPriority	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usPriority:3;$/;"	m	struct:VLANh
+usPriority	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usPriority:3;$/;"	m	struct:VLANh
+usProtocol	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usProtocol;$/;"	m	struct:PPPh
+usProtocol	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usProtocol;$/;"	m	struct:VLANh
+usProtocol	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usProtocol;$/;"	m	struct:PPPh
+usProtocol	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usProtocol;$/;"	m	struct:VLANh
+usProtocol	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usProtocol;$/;"	m	struct:PPPh
+usProtocol	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usProtocol;$/;"	m	struct:VLANh
+usSPort	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usSPort;$/;"	m	struct:ElementKey
+usSPort	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT usSPort;			\/\/源端口$/;"	m	struct:L4DataCharactor
+usSPort	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usSPort;$/;"	m	struct:ElementKey
+usSPort	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT usSPort;			\/\/源端口$/;"	m	struct:L4DataCharactor
+usSPort	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usSPort;$/;"	m	struct:ElementKey
+usSPort	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT usSPort;			\/\/源端口$/;"	m	struct:L4DataCharactor
+usSessionID	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	USHORT	usSessionID;$/;"	m	struct:PPPOEh
+usSessionID	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	USHORT	usSessionID;$/;"	m	struct:PPPOEh
+usSessionID	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	USHORT	usSessionID;$/;"	m	struct:PPPOEh
+user	BAIDUMark/DABaiDuMarkWrite/include/DABaiDuMarkWrite.h	/^	char user[32];$/;"	m	struct:tMySQL_Con
+ustDAR	BAIDUMark/DABaiDuMarkAnalyse/include/DACommon.h	/^	DARecord ustDAR;$/;"	m	struct:DAInputData
+ustDAR	BAIDUMark/DABaiDuMarkWrite/include/DACommon.h	/^	DARecord ustDAR;$/;"	m	struct:DAInputData
+ustDAR	BAIDUMark/DAPreBaiDuMark/include/DACommon.h	/^	DARecord ustDAR;$/;"	m	struct:DAInputData
+utf8_to_gb18030	BAIDUMark/include/GetBaiDuMark.c	/^int utf8_to_gb18030(char *Url)$/;"	f

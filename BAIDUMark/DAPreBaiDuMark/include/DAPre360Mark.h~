@@ -1,0 +1,24 @@
+
+// FileName: DAPre360Mark.h
+// Editor  : xsk
+// Time    : 2013-03-04
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <sys/types.h>
+#include <unistd.h>
+#include <pthread.h>
+
+#include "debug.h"
+#ifdef OP_SUCCESS
+#else
+#define OP_SUCCESS 0
+#define OP_FAILED -1
+#endif
+
+
+
+
+#include "Get360Mark.c"

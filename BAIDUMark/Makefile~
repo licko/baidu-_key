@@ -1,0 +1,8 @@
+
+
+
+all:
+	cd DAPre360Mark && make
+	cd DA360MarkAnalyse && make
+	cd DA360MarkWrite && make
+
